@@ -14,7 +14,7 @@ public class Application {
         String caseFile = "CASE_Data.txt";
         String moboFile = "MOBO_Data.txt";
         String cpuFile = "CPU_Data.txt";
-        String heatSinkFile = "HEATSINK_Data.txt";
+        String heatSinkFile = "HEATSINK_Data.txt"; //
         String gpuFile = "GPU_Data.txt";
         String ramFile = "RAM_Data.txt";
         String hardDriveFile = "HARDDRIVE_Data.txt";

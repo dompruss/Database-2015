@@ -16,7 +16,7 @@ import java.util.regex.Pattern;
 /**
  *
  * @author Nicolas
- */
+*/
 public class DataReader {
 
     private String fileName = "";
@@ -124,9 +124,6 @@ public class DataReader {
     }
     
     public void trimData(ArrayList d){
-//        String data = d.toString();
-//        data = data.replaceAll("\\W", "");
-//        return data;
         for (int i = 0; i < d.size(); i++) {
             if (d.get(i).equals("")) {
                 d.remove(i);

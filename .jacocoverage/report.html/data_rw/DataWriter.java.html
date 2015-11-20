@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>DataWriter.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">JaCoCoverage analysis of project &quot;Data_RW&quot; (powered by JaCoCo from EclEmma)</a> &gt; <a href="index.source.html" class="el_package">data_rw</a> &gt; <span class="el_source">DataWriter.java</span></div><h1>DataWriter.java</h1><pre class="source lang-java linenums">/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package data_rw;
+
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+/**
+ *
+ * @author Nicolas
+ */
+public class DataWriter {
+
+    private FileWriter fileWriter;
+    private BufferedWriter bufferedWriter;
+    private String fileName;
+<span class="nc" id="L25">    private int numAttributes = 0;</span>
+<span class="nc" id="L26">    private String[] moboForm = new String[]{&quot;AT&quot;, &quot;ATX&quot;, &quot;EATX&quot;, &quot;EEATX&quot;, &quot;Flex ATX&quot;,</span>
+        &quot;HPTX&quot;, &quot;Micro ATX&quot;, &quot;Mini ITX&quot;, &quot;SSI CEB&quot;, &quot;SSI EEB&quot;, &quot;Thin Mini ITX&quot;, &quot;XL ATX&quot;};
+
+<span class="nc" id="L29">    public DataWriter(ArrayList a, ArrayList d, String writeFile, int inNumAttributes) {</span>
+
+<span class="nc" id="L31">        numAttributes = inNumAttributes;</span>
+
+        try {
+            // The name of the file to open.
+<span class="nc" id="L35">            fileName = writeFile;</span>
+
+            // Assume default encoding.
+<span class="nc" id="L38">            fileWriter = new FileWriter(fileName);</span>
+
+            // Always wrap FileWriter in BufferedWriter.
+<span class="nc" id="L41">            bufferedWriter = new BufferedWriter(fileWriter);</span>
+<span class="nc" id="L42">        } catch (FileNotFoundException ex) {</span>
+<span class="nc" id="L43">            System.out.println(</span>
+                    &quot;Unable to open file '&quot;
+                    + fileName + &quot;'&quot;);
+<span class="nc" id="L46">        } catch (IOException ex) {</span>
+<span class="nc" id="L47">            System.out.println(</span>
+                    &quot;Error reading file '&quot;
+                    + fileName + &quot;'&quot;);
+<span class="nc" id="L50">        }</span>
+        
+<span class="nc bnc" id="L52" title="All 6 branches missed.">        switch (fileName) {</span>
+            case &quot;CASE.csv&quot;:
+<span class="nc" id="L54">                writeCase(a, d, numAttributes);</span>
+<span class="nc" id="L55">                writeCaseMoboComp(a, d);</span>
+<span class="nc" id="L56">                break;</span>
+
+            default:
+<span class="nc" id="L59">                System.out.println(&quot;Invalid file name&quot;);</span>
+                break;
+        }
+//        writeCase(a, d, numAttributes);
+//        writeCaseMoboComp(a, d);
+
+<span class="nc" id="L65">    }</span>
+
+    public String convertToString(String[] array) {
+<span class="nc" id="L68">        String converted = &quot;&quot;;</span>
+<span class="nc bnc" id="L69" title="All 2 branches missed.">        for (int i = 0; i &lt; array.length; i++) {</span>
+<span class="nc bnc" id="L70" title="All 2 branches missed.">            if (i != array.length - 1) {</span>
+<span class="nc" id="L71">                converted += array[i] + &quot;,&quot;;</span>
+            } else {
+<span class="nc" id="L73">                converted += array[i];</span>
+            }
+        }
+<span class="nc" id="L76">        return converted;</span>
+    }
+
+    public boolean searchArray(String s, String[] forms) {
+<span class="nc" id="L80">        boolean found = false;</span>
+<span class="nc bnc" id="L81" title="All 2 branches missed.">        for (int i = 0; i &lt; forms.length; i++) {</span>
+<span class="nc bnc" id="L82" title="All 2 branches missed.">            if (forms[i].equals(s)) {</span>
+<span class="nc" id="L83">                found = true;</span>
+<span class="nc" id="L84">                return found;</span>
+            }
+        }
+<span class="nc" id="L87">        return found;</span>
+    }
+
+    public void writeCase(ArrayList a, ArrayList d, int n) {
+        try {
+<span class="nc bnc" id="L92" title="All 2 branches missed.">            for (int i = 0; i &lt; a.size(); i++) {</span>
+<span class="nc bnc" id="L93" title="All 2 branches missed.">                if (i == 10) {</span>
+
+                } else {
+<span class="nc bnc" id="L96" title="All 2 branches missed.">                    if (i != a.size() - 1) {</span>
+<span class="nc" id="L97">                        bufferedWriter.write((String) a.get(i) + &quot;,&quot;);</span>
+                    } else {
+<span class="nc" id="L99">                        bufferedWriter.write((String) a.get(i));</span>
+                    }
+                }
+            }
+
+<span class="nc" id="L104">            bufferedWriter.newLine();</span>
+<span class="nc" id="L105">            int startMod = 11;</span>
+<span class="nc bnc" id="L106" title="All 2 branches missed.">            for (int j = 0; j &lt; d.size(); j++) {</span>
+<span class="nc bnc" id="L107" title="All 2 branches missed.">                if ((j + 1) % startMod == 0) {</span>
+<span class="nc" id="L108">                    startMod += 13;</span>
+
+                } else {
+<span class="nc bnc" id="L111" title="All 2 branches missed.">                    if ((j + 1) % n == 0) {</span>
+<span class="nc" id="L112">                        bufferedWriter.write((String) d.get(j));</span>
+<span class="nc" id="L113">                        bufferedWriter.newLine();</span>
+                    } else {
+<span class="nc" id="L115">                        bufferedWriter.write((String) d.get(j) + &quot;,&quot;);</span>
+                    }
+                }
+
+            }
+
+<span class="nc" id="L121">            bufferedWriter.close();</span>
+<span class="nc" id="L122">        } catch (IOException ex) {</span>
+<span class="nc" id="L123">            System.out.println(</span>
+                    &quot;Error writing to file '&quot;
+                    + fileName + &quot;'&quot;);
+<span class="nc" id="L126">        }</span>
+<span class="nc" id="L127">    }</span>
+
+    public void writeCaseMoboComp(ArrayList a, ArrayList d) {
+<span class="nc" id="L130">        FileWriter compWrite = null;</span>
+        try {
+<span class="nc" id="L132">            compWrite = new FileWriter(&quot;CASE_MOBO_COMP.csv&quot;);</span>
+<span class="nc" id="L133">            BufferedWriter compBufferedWriter = new BufferedWriter(compWrite);</span>
+<span class="nc" id="L134">            compBufferedWriter.write(&quot;CASE &quot; + (String) a.get(0) + &quot;,&quot; + &quot;CASE &quot; + (String) a.get(1) + &quot;,&quot; + convertToString(moboForm));</span>
+<span class="nc" id="L135">            compBufferedWriter.newLine();</span>
+<span class="nc" id="L136">            int startMod = 11;</span>
+<span class="nc bnc" id="L137" title="All 2 branches missed.">            for (int j = 0; j &lt; d.size(); j++) {</span>
+<span class="nc bnc" id="L138" title="All 2 branches missed.">                if ((j + 1) % startMod == 0) {</span>
+<span class="nc" id="L139">                    startMod += 13;</span>
+<span class="nc" id="L140">                    String forms = (String) d.get(j);</span>
+<span class="nc" id="L141">                    String[] matches = new String[moboForm.length];</span>
+<span class="nc" id="L142">                    String[] splitForms = forms.split(&quot;, &quot;);</span>
+<span class="nc bnc" id="L143" title="All 2 branches missed.">                    for (int k = 0; k &lt; moboForm.length; k++) {</span>
+<span class="nc bnc" id="L144" title="All 2 branches missed.">                        if (searchArray(moboForm[k], splitForms)) {</span>
+<span class="nc" id="L145">                            matches[k] = &quot;1&quot;;</span>
+                        } else {
+<span class="nc" id="L147">                            matches[k] = &quot;0&quot;;</span>
+                        }
+                    }
+<span class="nc" id="L150">                    compBufferedWriter.write((String) d.get(j - 10) + &quot;,&quot; + (String) d.get(j - 9) + &quot;,&quot; + convertToString(matches));</span>
+<span class="nc" id="L151">                    compBufferedWriter.newLine();</span>
+                }
+            }
+<span class="nc" id="L154">            compBufferedWriter.close();</span>
+<span class="nc" id="L155">        } catch (IOException ex) {</span>
+<span class="nc" id="L156">            System.out.println(</span>
+                    &quot;Error writing to file '&quot;
+                    + fileName + &quot;'&quot;);
+<span class="nc" id="L159">        }</span>
+<span class="nc" id="L160">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.5.201505241946</span></div></body></html>

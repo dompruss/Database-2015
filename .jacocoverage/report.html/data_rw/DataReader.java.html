@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>DataReader.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">JaCoCoverage analysis of project &quot;Data_RW&quot; (powered by JaCoCo from EclEmma)</a> &gt; <a href="index.source.html" class="el_package">data_rw</a> &gt; <span class="el_source">DataReader.java</span></div><h1>DataReader.java</h1><pre class="source lang-java linenums">/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package data_rw;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ *
+ * @author Nicolas
+*/
+public class DataReader {
+
+<span class="nc" id="L22">    private String fileName = &quot;&quot;;</span>
+    private int numAttributes;
+<span class="nc" id="L24">    private ArrayList&lt;String&gt; data = new ArrayList&lt;String&gt;();//write each piece of data here then have data writer divied up array</span>
+<span class="nc" id="L25">    private ArrayList&lt;String&gt; attributes = new ArrayList&lt;String&gt;();</span>
+
+<span class="nc" id="L27">    public DataReader(String inFileName) {</span>
+<span class="nc" id="L28">        fileName = inFileName;</span>
+<span class="nc" id="L29">        numAttributes = 0;</span>
+<span class="nc" id="L30">        getAttributesAndData();</span>
+<span class="nc" id="L31">        printAttributes(attributes);</span>
+<span class="nc" id="L32">        trimData(data);</span>
+<span class="nc" id="L33">        DataWriter dw = new DataWriter(attributes, data, convertFileName(fileName), numAttributes);</span>
+<span class="nc" id="L34">         System.out.println();</span>
+<span class="nc" id="L35">        System.out.println(data.size());</span>
+<span class="nc" id="L36">    }</span>
+
+    public void getAttributesAndData() {
+
+        // This will reference one line at a time
+<span class="nc" id="L41">        String line = null; // \s*&lt;h4&gt;\w*\W*\s*[#]*\w*&lt;/h4&gt;</span>
+<span class="nc" id="L42">        String pattern = &quot;\\s*&lt;h4&gt;\\w*\\W*\\w*\\s*[#]*\\d*\\s*\\w*\\s*[3.0]*\\s*\\W*\\w*[(s)]*&lt;/h4&gt;&quot;;   //Matches RAM, MOBO, GPU</span>
+<span class="nc" id="L43">        String pattern2 = &quot;\\s*&lt;h4&gt;\\w+\\s+\\d+\\W+\\d+[&amp;quot;]+\\s+\\w*+&lt;/h4&gt;&quot;;</span>
+
+        // Create a Pattern object
+<span class="nc" id="L46">        Pattern regex = Pattern.compile(pattern);</span>
+<span class="nc" id="L47">        Pattern regex2 = Pattern.compile(pattern2);</span>
+
+        try {
+            // FileReader reads text files in the default encoding.
+<span class="nc" id="L51">            FileReader fileReader</span>
+                    = new FileReader(fileName);
+
+            // Always wrap FileReader in BufferedReader.
+<span class="nc" id="L55">            BufferedReader bufferedReader</span>
+                    = new BufferedReader(fileReader);
+
+<span class="nc bnc" id="L58" title="All 2 branches missed.">            while ((line = bufferedReader.readLine()) != null) {</span>
+                //System.out.println(line);
+                // Now create matcher object.
+<span class="nc" id="L61">                Matcher m = regex.matcher(line);</span>
+<span class="nc" id="L62">                Matcher m2 = regex2.matcher(line);</span>
+
+<span class="nc bnc" id="L64" title="All 4 branches missed.">                if (m.matches() || m2.matches()) {</span>
+                    //System.out.println(&quot;match&quot;);
+<span class="nc" id="L66">                    line = line.trim();</span>
+<span class="nc" id="L67">                    line = line.substring(4, line.length() - 5);</span>
+<span class="nc" id="L68">                    line = line.replaceAll(&quot;&amp;quot;&quot;, &quot;&quot;);</span>
+<span class="nc bnc" id="L69" title="All 2 branches missed.">                    if (!searchArray(line, attributes)) {</span>
+<span class="nc" id="L70">                        attributes.add(line);</span>
+<span class="nc" id="L71">                        numAttributes++;</span>
+                    }
+                    //System.out.println(line);
+<span class="nc bnc" id="L74" title="All 4 branches missed.">                } else if(!line.equals(&quot;&quot;) &amp;&amp; !line.equals(&quot;\\W&quot;)) {</span>
+<span class="nc" id="L75">                    line = line.trim();</span>
+                    //line = line.replaceAll(&quot;\\W&quot;, &quot;&quot;);
+<span class="nc" id="L77">                    data.add(line);</span>
+                }
+<span class="nc" id="L79">            }</span>
+<span class="nc" id="L80">            System.out.println(numAttributes);</span>
+
+            // Always close files.
+<span class="nc" id="L83">            bufferedReader.close();</span>
+<span class="nc" id="L84">        } catch (FileNotFoundException ex) {</span>
+<span class="nc" id="L85">            System.out.println(</span>
+                    &quot;Unable to open file '&quot;
+                    + fileName + &quot;'&quot;);
+<span class="nc" id="L88">        } catch (IOException ex) {</span>
+<span class="nc" id="L89">            System.out.println(</span>
+                    &quot;Error reading file '&quot;
+                    + fileName + &quot;'&quot;);
+<span class="nc" id="L92">        }</span>
+<span class="nc" id="L93">    }</span>
+
+    public void printAttributes(ArrayList a) {
+<span class="nc bnc" id="L96" title="All 2 branches missed.">        for (Object a1 : a) {</span>
+<span class="nc" id="L97">            System.out.println(a1);</span>
+<span class="nc" id="L98">        }</span>
+<span class="nc" id="L99">    }</span>
+    
+    public void printData(ArrayList a){
+<span class="nc bnc" id="L102" title="All 2 branches missed.">        for (Object a1 : a) {</span>
+            
+<span class="nc" id="L104">            System.out.print(a1);</span>
+<span class="nc" id="L105">        }</span>
+<span class="nc" id="L106">    }</span>
+
+    public boolean searchArray(String s, ArrayList a) {
+<span class="nc" id="L109">        boolean found = false;</span>
+<span class="nc bnc" id="L110" title="All 2 branches missed.">        for (int i = 0; i &lt; a.size(); i++) {</span>
+<span class="nc bnc" id="L111" title="All 2 branches missed.">            if (a.get(i).equals(s)) {</span>
+<span class="nc" id="L112">                found = true;</span>
+<span class="nc" id="L113">                return found;</span>
+            }
+        }
+<span class="nc" id="L116">        return found;</span>
+    }
+
+    public String convertFileName(String file) {
+<span class="nc" id="L120">        String writeFile = file;</span>
+<span class="nc" id="L121">        writeFile = writeFile.replaceAll(&quot;_Data&quot;, &quot;&quot;);</span>
+<span class="nc" id="L122">        writeFile = writeFile.replaceAll(&quot;txt&quot;, &quot;csv&quot;);</span>
+<span class="nc" id="L123">        return writeFile;</span>
+    }
+    
+    public void trimData(ArrayList d){
+<span class="nc bnc" id="L127" title="All 2 branches missed.">        for (int i = 0; i &lt; d.size(); i++) {</span>
+<span class="nc bnc" id="L128" title="All 2 branches missed.">            if (d.get(i).equals(&quot;&quot;)) {</span>
+<span class="nc" id="L129">                d.remove(i);</span>
+<span class="nc" id="L130">                i--;</span>
+            }
+        }
+<span class="nc" id="L133">    }</span>
+    
+    
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.5.201505241946</span></div></body></html>

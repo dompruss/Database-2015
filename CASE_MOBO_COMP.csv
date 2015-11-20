@@ -1,0 +1,51 @@
+CASE Manufacturer,CASE Model,AT,ATX,EATX,EEATX,Flex ATX,HPTX,Micro ATX,Mini ITX,SSI CEB,SSI EEB,Thin Mini ITX,XL ATX
+Cooler Master,Silencio 352,0,0,0,0,0,0,1,1,0,0,0,0
+Cooler Master,K280,0,1,0,0,0,0,1,1,0,0,0,0
+Cooler Master,N400,0,1,0,0,0,0,1,1,0,0,0,0
+Cooler Master,N300,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Versa N21,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Commander MS-I ID,0,1,0,0,0,0,1,1,0,0,0,0
+Cooler Master,K380,0,1,0,0,0,0,1,1,0,0,0,0
+Cougar,MX300,0,1,0,0,0,0,1,1,0,0,0,0
+Cougar,Solution (Black),0,1,0,0,0,0,1,1,0,0,0,0
+Cooler Master,Force 500,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Urban S1,0,0,0,0,0,0,1,1,0,0,0,0
+BitFenix,Ghost (Black),0,1,0,0,0,0,1,1,0,0,1,0
+Aerocool,DS Cube Black Edition Silent Cube,0,0,0,0,0,0,1,1,0,0,0,0
+BitFenix,Merc Alpha (Black),0,1,0,0,0,0,1,1,0,0,1,0
+Cougar,Volant (Black),0,1,0,0,0,0,1,1,0,0,0,0
+SHARKOON,Mask,0,1,0,0,0,0,1,1,0,0,0,0
+Silverstone,RL01B-USB 3.0 (Black),0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,ARMOR A30i,0,0,0,0,0,0,1,1,0,0,0,0
+Aerocool,DS Cube White Edition Silent Cube,0,0,0,0,0,0,1,1,0,0,0,0
+Silverstone,RL01B-W-USB 3.0 (Black),0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Urban SD1,0,0,0,0,0,0,1,1,0,0,0,0
+Cooler Master,K280 USB3.0,0,1,0,0,0,0,1,1,0,0,0,0
+Aerocool,DS Cube Red Edition Silent Cube,0,0,0,0,0,0,1,1,0,0,0,0
+Cougar,Solution AF-2 (Green/Black),0,1,0,0,0,0,1,1,0,0,0,0
+Azza,Orion 202 EVO,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Versa II,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Urban R21,0,1,0,0,0,0,1,1,0,0,0,0
+Aerocool,DS Cube Gold Edition Silent Cube,0,0,0,0,0,0,1,1,0,0,0,0
+Antec,GX500 ILLUSION,0,1,0,0,0,0,1,1,0,0,0,0
+Cooler Master,Silencio 450,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,Armor A30,0,0,0,0,0,0,1,1,0,0,1,0
+Thermaltake,ARMOR A30i Speedy,0,0,0,0,0,0,1,1,0,0,0,0
+Cougar,Solution RSB400 (Black),0,1,0,0,0,0,1,1,0,0,0,0
+Antec,DF-10,0,1,0,0,0,0,1,1,0,0,1,0
+Antec,DF-35,0,1,0,0,0,0,1,1,0,0,1,0
+Thermaltake,VO700A1W3N,0,1,0,0,0,0,1,1,0,0,0,0
+Thermaltake,VM20001W2Z,0,1,0,0,0,0,1,1,0,0,0,0
+Antec,One Hundred USM (Black),0,1,0,0,0,0,1,1,0,0,1,0
+Sentey,Shield,0,1,0,0,0,0,1,0,0,0,0,0
+Rosewill,FB-03,0,1,0,0,0,0,1,1,0,0,0,0
+Aerocool,DS Cube Orange Edition Silent Cube,0,0,0,0,0,0,1,1,0,0,0,0
+Sentey,CS1-1399 PLUS,0,1,0,0,0,0,1,1,0,0,0,0
+Antec,DF-30,0,1,0,0,0,0,1,1,0,0,1,0
+Lian-Li,PC-A05FNA,0,1,0,0,0,0,1,1,0,0,1,0
+Apevia,X-HERMES-GN,0,1,0,0,0,0,1,1,0,0,0,0
+Apevia,X-QPACK3-RD,0,0,0,0,0,0,1,1,0,0,0,0
+Zalman,Z9 Plus,0,1,0,0,0,0,1,1,0,0,0,0
+DIYPC,Adventurer-I8-BL,0,1,0,0,0,0,1,1,0,0,0,0
+Azza,Hurrican 2000R,0,1,1,0,0,0,1,1,0,0,0,0
+Xigmatek,Asgard Pro (Black),0,1,0,0,0,0,1,1,0,0,1,0

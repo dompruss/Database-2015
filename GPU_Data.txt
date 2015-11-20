@@ -1,0 +1,83 @@
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 970 GAMING 4G<br/>(or) V316-001R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.14Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.59&quot; (269mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1

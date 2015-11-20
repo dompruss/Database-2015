@@ -1,0 +1,3201 @@
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Silencio 352
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SIL-352M-KKN1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.98
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          K280
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RC-K280-KKN1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.40
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          N400
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NSE-400-KKN2
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          7
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          N300
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NSE-300-KWN1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          7
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Versa N21
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CA-1D9-00M1WN-00
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          9.84
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Commander MS-I ID
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VN400A1W2N
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          K380
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RC-K380-KWN1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Red
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.44
+
+<h4>Manufacturer</h4>
+                        
+                          Cougar
+
+
+                      <h4>Model</h4>
+                        
+                          MX300
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          MX300
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.20
+
+<h4>Manufacturer</h4>
+                        
+                          Cougar
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Solution (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Solution
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Force 500
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          FOR-500-KKN1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          7
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Urban S1
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CA-1A8-00M1NN-00
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          10.24
+
+<h4>Manufacturer</h4>
+                        
+                          BitFenix
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Ghost (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BFC-GHO-300-KKN1-RP
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Aerocool
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          DS Cube Black Edition Silent Cube
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          EN52261
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          BitFenix
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Merc Alpha (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BFC-MRC-100-KKX1-U3
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          10.63
+
+<h4>Manufacturer</h4>
+                        
+                          Cougar
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Volant (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Volant
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          SHARKOON
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Mask
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          4044951014170
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.80
+
+<h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          RL01B-USB 3.0 (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SST-RL01B-USB 3.0
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          10.98
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          ARMOR A30i
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VM700A1W2N
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.78
+
+<h4>Manufacturer</h4>
+                        
+                          Aerocool
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          DS Cube White Edition Silent Cube
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          EN52285
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          White
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          RL01B-W-USB 3.0 (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SST-RL01B-W-USB 3.0<br/>(or) RL01B-W-USB 3.0
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Gray/Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          10.98
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Urban SD1
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CA-1A9-00S1NN-00
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.78
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          K280 USB3.0
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RC-K280-KKN4
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.40
+
+<h4>Manufacturer</h4>
+                        
+                          Aerocool
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          DS Cube Red Edition Silent Cube
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          EN52339
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Red
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Cougar
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Solution AF-2 (Green/Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SolutionAF-2
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Green
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Azza
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Orion 202 EVO
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CSAZ-202EVO
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Red
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.39
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Versa II
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VO700A1N3N
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Urban R21
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CA-1A6-00M1WN-00
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Aerocool
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          DS Cube Gold Edition Silent Cube
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          EN52391
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Gold
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Antec
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          GX500 ILLUSION 
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GX500 ILLUSION
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          14.96
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Silencio 450
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RC-450-KKN1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          11.06
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Armor A30
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VM70001W2Z
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.78
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          ARMOR A30i Speedy
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VM700A3W2N
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Red
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.78
+
+<h4>Manufacturer</h4>
+                        
+                          Cougar
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Solution RSB400 (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SolutionRSB400
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          400 Watts
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Antec
+
+
+                      <h4>Model</h4>
+                        
+                          DF-10
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          DF-10
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          11.50
+
+<h4>Manufacturer</h4>
+                        
+                          Antec
+
+
+
+                      <h4>Model</h4>
+                        
+                          DF-35
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          DF-35
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          11.50
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+
+
+                      <h4>Model</h4>
+                        
+                          VO700A1W3N
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VO700A1W3N
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+
+
+                      <h4>Model</h4>
+                        
+                          VM20001W2Z
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          VM20001W2Z
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.01
+
+<h4>Manufacturer</h4>
+                        
+                          Antec
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          One Hundred USM (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          One Hundred USM
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+
+
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Sentey
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Shield
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GS-6090
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.39
+
+<h4>Manufacturer</h4>
+                        
+                          Rosewill
+
+
+                      <h4>Model</h4>
+                        
+                          FB-03
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          FB-03
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+
+
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.00
+
+<h4>Manufacturer</h4>
+                        
+                          Aerocool
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          DS Cube Orange Edition Silent Cube
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          EN52346
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Orange
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Sentey
+
+
+                      <h4>Model</h4>
+                        
+                          CS1-1399 PLUS
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CS1-1399 PLUS
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Red
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+
+
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Antec
+
+
+                      <h4>Model</h4>
+                        
+                          DF-30
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          DF-30
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          11.50
+
+<h4>Manufacturer</h4>
+                        
+                          Lian-Li
+
+
+                      <h4>Model</h4>
+                        
+                          PC-A05FNA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PC-A05FNA
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Silver
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          11.02
+
+<h4>Manufacturer</h4>
+                        
+                          Apevia
+
+
+                      <h4>Model</h4>
+                        
+                          X-HERMES-GN
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          X-HERMES-GN
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Green
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          15.98
+
+<h4>Manufacturer</h4>
+                        
+                          Apevia
+
+
+                      <h4>Model</h4>
+                        
+                          X-QPACK3-RD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          X-QPACK3-RD
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          MicroATX Mini Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Red
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          12.60
+
+<h4>Manufacturer</h4>
+                        
+                          Zalman
+
+
+                      <h4>Model</h4>
+                        
+                          Z9 Plus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z9 Plus
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          5
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          11.42
+
+<h4>Manufacturer</h4>
+                        
+                          DIYPC
+
+
+                      <h4>Model</h4>
+                        
+                          Adventurer-I8-BL
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Adventurer-I8-BL
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black/Blue
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          15.75
+
+<h4>Manufacturer</h4>
+                        
+                          Azza
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hurrican 2000R
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CSAZ-2000R
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Full Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          4
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          6
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, EATX, Micro ATX, Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+
+
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          15.75
+
+
+<h4>Manufacturer</h4>
+                        
+                          Xigmatek
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Asgard Pro (Black)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CCC-AE37BS-U02
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX Mid Tower
+                        
+                    
+                      <h4>Color</h4>
+                        
+                          Black
+                        
+                    
+                      <h4>Includes Power Supply</h4>
+                        
+                          No
+                        
+                    
+                      <h4>External 3.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>External 5.25&quot; Bays</h4>
+                        
+                          3
+                        
+                    
+                      <h4>Internal 2.5&quot; Bays</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Internal 3.5&quot; Bays</h4>
+                        
+                          7
+                        
+                    
+                      <h4>Motherboard Compatibility</h4>
+                        
+                          ATX, Micro ATX, Mini ITX, Thin Mini ITX
+                        
+                    
+                      <h4>Front Panel USB 3.0 Ports</h4>
+                        
+                          Yes
+
+
+                      <h4>Maximum Video Card Length</h4>
+                        
+                          13.25

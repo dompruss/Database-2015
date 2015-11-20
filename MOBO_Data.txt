@@ -1,0 +1,236 @@
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170-A
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800 / 2933 / 3200 / 3300 / 3333 / 3400
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          MAXIMUS VIII HERO
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800 / 3000 / 3200 / 3300 / 3400
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-H170N-WIFI
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Mini ITX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          2 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes

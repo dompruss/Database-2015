@@ -1,0 +1,4 @@
+Manufacturer,Part #,Form Factor,CPU Socket,Chipset,Memory Slots,Memory Type,Max Memory,RAID Support,Onboard Video,CrossFire Support,SLI Support,SATA 6 Gb/s,SATA Express,Onboard Ethernet,Onboard USB 3.0 Header(s)
+Asus,Z170-A,ATX,LGA1151,Intel Z170,4 x 288-pin DIMM,DDR4-2133 / 2400 / 2666 / 2800 / 2933 / 3200 / 3300 / 3333 / 3400,64GB,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
+Asus,MAXIMUS VIII HERO,ATX,LGA1151,Intel Z170,4 x 288-pin DIMM,DDR4-2133 / 2400 / 2666 / 2800 / 3000 / 3200 / 3300 / 3400,64GB,Yes,Depends on CPU,Yes,Yes,4,2,1 x 10/100/1000 Mbps,Yes
+Gigabyte,GA-H170N-WIFI,Mini ITX,LGA1151,Intel H170,2 x 288-pin DIMM,DDR4-2133,32GB,Yes,Depends on CPU,No,No,2,2,1 x 10/100/1000 Mbps,Yes

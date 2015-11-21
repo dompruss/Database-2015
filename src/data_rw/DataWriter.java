@@ -60,6 +60,7 @@ public class DataWriter {
                 converted += array[i];
             }
         }
+        converted = converted.replaceAll("\\s", "_");
         return converted;
     }
 

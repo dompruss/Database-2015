@@ -1,4 +1,4 @@
-Manufacturer,Model,Part #,Data Width,Socket,Speed,Cores
+Manufacturer,Model,PartNum,DataWidth,Socket,Speed,Cores
 Intel,Core i7-6700K,BX80662I76700K,64-bit,LGA1151,4.0,4
 Intel,Core i7-4770K,BX80646I74770K,64-bit,LGA1150,3.5,4
 Intel,Core i7-5775C,BX80658I75775C,64-bit,LGA1150,3.3,4

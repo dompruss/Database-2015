@@ -1,19 +1,19 @@
-Manufacturer,Part #,Form Factor,CPU Socket,Chipset,Memory Slots,Memory Type,Max Memory,RAID Support,Onboard Video,CrossFire Support,SLI Support,SATA 6 Gb/s,SATA Express,Onboard Ethernet,Onboard USB 3.0 Header(s)
+Manufacturer,PartNum,FormFactor,CPUSocket,Chipset,MemorySlots,MemoryType,MaxMemory,RAIDSupport,OnboardVideo,CrossFireSupport,SLISupport,SATA6Gb/s,SATAExpress,OnboardEthernet,OnboardUSB3.0Header(s)
 Asus,Z170-A,ATX,LGA1151,Intel Z170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
 Asus,Z97-A,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
 Asus,MAXIMUS VIII HERO,ATX,LGA1151,Intel Z170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,Yes,4,2,1 x 10/100/1000 Mbps,Yes
 Gigabyte,GA-H170N-WIFI,Mini ITX,LGA1151,Intel H170,288-pin DIMM,DDR4,32,Yes,Depends on CPU,No,No,2,2,1 x 10/100/1000 Mbps,Yes
-MSI,X99S SLI Plus<br/>(or) 7885-002R,ATX,LGA2011-3,Intel X99,288-pin DIMM,DDR4,128,Yes,No,Yes,3-way SLI,8,1,1 x 10/100/1000 Mbps,Yes
+MSI,X99S SLI Plus,ATX,LGA2011-3,Intel X99,288-pin DIMM,DDR4,128,Yes,No,Yes,3-way SLI,8,1,1 x 10/100/1000 Mbps,Yes
 Gigabyte,GA-Z97X-UD3H-BK,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
 Gigabyte,GA-Z97X-UD3H-BK,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
 ASRock,Z97 PRO4,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
-MSI,Z97SSLIKrait Edition<br/>(or) Z97S SLI KRAIT EDITION,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
+MSI,Z97SSLIKrait Edition,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
 MSI,B150M BAZOOKA,Micro ATX,LGA1151,Intel B150,288-pin DIMM,DDR4,64,No,Depends on CPU,No,No,4,1,1 x 10/100/1000 Mbps,Yes
 MSI,B150M MORTAR,Micro ATX,LGA1151,Intel B150,288-pin DIMM,DDR4,64,No,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
 Gigabyte,GA-Z97X-SLI,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,Yes,4,1,1 x 10/100/1000 Mbps,Yes
 Gigabyte,GA-H170M-D3H,Micro ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,2,2,1 x 10/100/1000 Mbps,Yes
 Foxconn,H97M Plus,Micro ATX,LGA1150,Intel H97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
-Gigabyte,GA-H97-D3H<br/>(or) H97-D3H,ATX,LGA1150,Intel H97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
+Gigabyte,GA-H97-D3H,ATX,LGA1150,Intel H97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
 ASRock,H170 Pro4S,ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,No,No,4,1,1 x 10/100/1000 Mbps,Yes
 ASRock,Fatal1ty H97 Killer,ATX,LGA1150,Intel H97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
 MSI,H170A PC Mate,ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,No,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
@@ -28,8 +28,8 @@ Gigabyte,GA-Z97X-Gaming 3,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends
 MSI,Z170M Mortar,Micro ATX,LGA1151,Intel Z170,288-pin DIMM,DDR4,64,No,Yes,No,No,4,1,1 x 10/100/1000 Mbps,Yes
 Asus,H170-PRO,ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,No,No,4,1,1 x 10/100/1000 Mbps,Yes
 Gigabyte,GA-H170-D3HP,ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,2,2,1 x 10/100/1000 Mbps,Yes
-MSI,Z170A PC MATE<br/>(or) 7971-001R,ATX,LGA1151,Intel Z170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
-ASRock,Fatal1ty H170 Performance<br/>(or) H170 Performance,ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
+MSI,Z170A PC MATE,ATX,LGA1151,Intel Z170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
+ASRock,Fatal1ty H170 Performance,ATX,LGA1151,Intel H170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes
 ASRock,Z170 Pro4S,ATX,LGA1151,Intel Z170,288-pin DIMM,DDR4,64,Yes,Depends on CPU,Yes,No,2,2,1 x 10/100/1000 Mbps,Yes
 ASRock,H97M WS,Micro ATX,LGA1150,Intel H97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,No,No,4,1,2 x 10/100/1000 Mbps,Yes
 ASRock,Fatal1ty Z97 Killer,ATX,LGA1150,Intel Z97,240-pin DIMM,DDR3,32,Yes,Depends on CPU,Yes,No,4,1,1 x 10/100/1000 Mbps,Yes

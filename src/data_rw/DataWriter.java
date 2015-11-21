@@ -82,7 +82,9 @@ public class DataWriter {
             this.bufferedWriter = new BufferedWriter(fileWriter);
             int backTrack = startMod;
             int modValue = startMod;
-            String header = fileName.substring(0, fileName.indexOf("_")) + " ";
+            String header = fileName.substring(0, fileName.indexOf("_"));
+//            String noSpaces = (String) a.get(0);
+//                noSpaces = noSpaces.replaceAll("\\s", "");
             bufferedWriter.write(header + (String) a.get(0) + "," + header + (String) a.get(1) + "," + convertToString(list));
             bufferedWriter.newLine();
             for (int j = 0; j < d.size(); j++) {

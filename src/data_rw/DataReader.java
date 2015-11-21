@@ -30,9 +30,9 @@ public class DataReader {
         fileName = inFileName;
         numAttributes = 0;
         getAttributesAndData();
-        printAttributes(attributes);
+        //printAttributes(attributes);
         trimData(data);
-        printData(data);
+        //printData(data);
         setDataWriter(component);
         //dw.writeData(attributes, data, numAttributes);
         System.out.println();
@@ -95,6 +95,10 @@ public class DataReader {
                     line = line.trim();
                     line = line.substring(4, line.length() - 5);
                     line = line.replaceAll("&quot;", "");
+                    line = line.replaceAll("\\s", "");
+                    if(line.contains("#")){
+                        line = line.replaceAll("#", "Num");
+                    }
                     if (!searchArray(line, attributes)) {
                         attributes.add(line);
                         numAttributes++;

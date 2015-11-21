@@ -1,4 +1,4 @@
-Manufacturer,Model,Part #,Type,Color,Includes Power Supply,External 3.5 Bays,External 5.25 Bays,Internal 2.5 Bays,Internal 3.5 Bays,Front Panel USB 3.0 Ports,Maximum Video Card Length
+Manufacturer,Model,PartNum,Type,Color,IncludesPowerSupply,External3.5Bays,External5.25Bays,Internal2.5Bays,Internal3.5Bays,FrontPanelUSB3.0Ports,MaximumVideoCardLength
 Cooler Master,Silencio 352,SIL-352M-KKN1,MicroATX Mini Tower,Black,No,1,1,4,2,Yes,13.98
 Cooler Master,K280,RC-K280-KKN1,ATX Mid Tower,Black,No,1,3,1,6,Yes,12.40
 Cooler Master,N400,NSE-400-KKN2,ATX Mid Tower,Black,No,1,2,3,7,Yes,12.60

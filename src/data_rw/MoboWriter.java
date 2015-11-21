@@ -17,10 +17,11 @@ public class MoboWriter extends DataWriter {
     public MoboWriter(String writeFile, int numAttributes) {
         super(writeFile, numAttributes);
     }
-    
+
     @Override
-    public void writeData(ArrayList a, ArrayList d, int n){
+    public void writeData(ArrayList a, ArrayList d, int n) {
         try {
+
             for (int i = 0; i < a.size(); i++) {
                 if (i != a.size() - 1) {
                     bufferedWriter.write((String) a.get(i) + ",");
@@ -40,7 +41,9 @@ public class MoboWriter extends DataWriter {
                 if ((j + 1) % partMod == 0) {
                     partMod += n;
                     String info = (String) d.get(j);
-                    //info = info.substring(0, info.indexOf("<"));
+                    if (info.contains("<")) {
+                        info = info.substring(0, info.indexOf("<"));
+                    }
                     bufferedWriter.write(info + ",");
                 } else if ((j + 1) % memSlotMod == 0) {
                     memSlotMod += n;
@@ -75,5 +78,5 @@ public class MoboWriter extends DataWriter {
                     + fileName + "'");
         }
     }
-    
+
 }

@@ -51,6 +51,86 @@
                       <h4>CrossFire Support</h4>
                         
                           Yes
+
+
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97-A
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
                         
                     
                       <h4>SLI Support</h4>
@@ -234,3 +314,3638 @@
                       <h4>Onboard USB 3.0 Header(s)</h4>
                         
                           Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          X99S SLI Plus<br/>(or) 7885-002R
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA2011-3
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel X99
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          8 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          128GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          8
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97X-UD3H-BK
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97X-UD3H-BK
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97 PRO4
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97SSLIKrait Edition<br/>(or) Z97S SLI KRAIT EDITION
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2000 / 2133 / 2200 / 2400 / 2600 / 2666 / 2800 / 3000 / 3100 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          B150M BAZOOKA
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel B150
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          B150M MORTAR
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel B150
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97X-SLI
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-H170M-D3H
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Foxconn
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H97M Plus
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-H97-D3H<br/>(or) H97-D3H
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170 Pro4S
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Fatal1ty H97 Killer
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170A PC Mate
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170 Pro4
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97-E
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600 / 1866 / 2000 / 2133 / 2200 / 2250 / 2400 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97M OC Formula
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933 / 3100 / 3300
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170I-PLUS D3
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Mini ITX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          2 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600 / 1866
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          B150 Gaming M3
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel B150
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170M-PLUS
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97-HD3P
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97X-Gaming 3
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170M Mortar
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800 / 3000 / 3400
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170-PRO
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-H170-D3HP
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170A PC MATE<br/>(or) 7971-001R
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2800 / 3000 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Fatal1ty H170 Performance<br/>(or) H170 Performance
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170 Pro4S
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2800 / 2933 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H97M WS
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          2 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Fatal1ty Z97 Killer
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97 KILLER
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170 Gaming M3
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170-A PRO
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2800 / 3000 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97 EXTREME4
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          6
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-H170-GAMING 3
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97MX-Gaming 5
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H170A Gaming Pro
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          B150A Gaming Pro
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel B150
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170 Pro4
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2800 / 2933 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-H170N-WIFI
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Mini ITX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel H170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          2 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          2
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          2
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97-E/USB3.1
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1333 / 1600 / 1866 / 2000 / 2133 / 2200 / 2250 / 2400 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z170M-PLUS
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z170
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 288-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR4-2133 / 2400 / 2666 / 2800 / 3000 / 3200 / 3300 / 3333 / 3400
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          64GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Z97E-ITX/ac
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Mini ITX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          2 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          16GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Fatal1ty Z97M Killer
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          Micro ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933 / 3300
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GA-Z97X-Gaming 5
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1800 / 1866 / 2000 / 2133 / 2200 / 2400 / 2500 / 2600 / 2666 / 2800 / 2933 / 3000 / 3100 / 3200
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          ASRock
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Fatal1ty Z97X Killer
+                        
+                    
+                      <h4>Form Factor</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>CPU Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Intel Z97
+                        
+                    
+                      <h4>Memory Slots</h4>
+                        
+                          4 x 240-pin DIMM
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          DDR3-1066 / 1333 / 1600 / 1866 / 2133 / 2400 / 2800 / 2933 / 3000
+                        
+                    
+                      <h4>Max Memory</h4>
+                        
+                          32GB
+                        
+                    
+                      <h4>RAID Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Onboard Video</h4>
+                        
+                          Depends on CPU
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SATA 6 Gb/s</h4>
+                        
+                          4
+                        
+                    
+                      <h4>SATA Express</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Onboard Ethernet</h4>
+                        
+                          1 x 10/100/1000 Mbps
+                        
+                    
+                      <h4>Onboard USB 3.0 Header(s)</h4>
+                        
+                          Yes
+

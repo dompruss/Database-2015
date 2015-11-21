@@ -16,23 +16,47 @@ import java.util.regex.Pattern;
 /**
  *
  * @author Nicolas
-*/
+ */
 public class DataReader {
 
     private String fileName = "";
     private int numAttributes;
     private ArrayList<String> data = new ArrayList<String>();//write each piece of data here then have data writer divied up array
     private ArrayList<String> attributes = new ArrayList<String>();
+    //private DataWriter dw;
+    //private DataWriter secondaryWriter;
 
-    public DataReader(String inFileName) {
+    public DataReader(String inFileName, String component) {
         fileName = inFileName;
         numAttributes = 0;
         getAttributesAndData();
-        printAttributes(attributes);
+        //printAttributes(attributes);
         trimData(data);
-        DataWriter dw = new DataWriter(attributes, data, convertFileName(fileName), numAttributes);
-         System.out.println();
+        //printData(data);
+        setDataWriter(component);
+        //dw.writeData(attributes, data, numAttributes);
+        System.out.println();
         System.out.println(data.size());
+    }
+
+    public void setDataWriter(String component) {
+        switch (component) {
+            case "case":
+                DataWriter caseW = new CaseWriter(convertFileName(fileName), numAttributes);
+                caseW.writeData(attributes, data, numAttributes);
+                caseW.writeSecondaryTables(attributes, data, caseW.moboForm, "CASE_MOBO_COMP.csv", 11, numAttributes, "", ", ");
+                break;
+
+            case "mobo":
+                DataWriter moboW = new MoboWriter(convertFileName(fileName), numAttributes);
+                moboW.writeData(attributes, data, numAttributes);
+                moboW.writeSecondaryTables(attributes, data, moboW.moboSpeeds, "MOBO_SPEED.csv", 7, numAttributes, "\\w*-", " / ");
+                break;
+
+            default:
+                System.out.println("Invalid file name");
+                break;
+        }
     }
 
     public void getAttributesAndData() {
@@ -71,7 +95,7 @@ public class DataReader {
                         numAttributes++;
                     }
                     //System.out.println(line);
-                } else if(!line.equals("") && !line.equals("\\W")) {
+                } else if (!line.equals("") && !line.equals("\\W")) {
                     line = line.trim();
                     //line = line.replaceAll("\\W", "");
                     data.add(line);
@@ -97,10 +121,10 @@ public class DataReader {
             System.out.println(a1);
         }
     }
-    
-    public void printData(ArrayList a){
+
+    public void printData(ArrayList a) {
         for (Object a1 : a) {
-            
+
             System.out.print(a1);
         }
     }
@@ -120,10 +144,11 @@ public class DataReader {
         String writeFile = file;
         writeFile = writeFile.replaceAll("_Data", "");
         writeFile = writeFile.replaceAll("txt", "csv");
+        System.out.print(writeFile);
         return writeFile;
     }
-    
-    public void trimData(ArrayList d){
+
+    public void trimData(ArrayList d) {
         for (int i = 0; i < d.size(); i++) {
             if (d.get(i).equals("")) {
                 d.remove(i);
@@ -131,7 +156,5 @@ public class DataReader {
             }
         }
     }
-    
-    
 
 }

@@ -1,0 +1,1698 @@
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-6700K
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I76700K
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          4.0GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4770K
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I74770K
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-5775C
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80658I75775C
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.3GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-5675C
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80658I55675C
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.1GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4790K
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BXF80646I74790K
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          4.0GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-6700
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I76700
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1276 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31276V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.6GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4790K (OEM/Tray)
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CM8064601710501
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          4.0GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1270 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31270V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1271 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31271V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.6GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4771
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I74771
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4790S
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I74790S
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.2GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4790
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I74790
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.6GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4770
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I74770
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1265L V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CM8064601467406
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          2.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i7-4770S
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I74770S
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.1GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-6600T
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CM8066201920601
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          2.7GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1245 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CM8064601466509
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1246 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31246V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1241 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31241V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1240 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31240V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4690K
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BXF80646I54690K
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4670K
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54670K
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1230 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31230V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.3GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1231 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31231V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+
+                     <h4>Model</h4>
+                        
+                          Core i5-6600K
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I56600K
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-6600
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I56600
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.3GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1226 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31226V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.3GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4670
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54670
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.4GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4690
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54690
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4690S
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54690S
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.2GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4570T
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54570T
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          2.9GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4570S
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54570S
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          2.9GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-6500
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I56500
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.2GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4570
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54570
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.2GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Xeon E3-1220 V3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646E31220V3
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.1GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4590S
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54590S
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.0GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4440S
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54440S
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          2.8GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4430
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54430
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.0GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4590
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54590
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.3GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4440
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54440
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.1GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-6400
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I56400
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          2.7GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i5-4460
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I54460
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.2GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          4
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-6320
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I36320
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.9GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-4340
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I34340
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.6GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-6300
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80662I36300
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1151
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.8GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-4350
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I34350
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.6GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-4370
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I34370
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.8GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-4360
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I34360
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.7GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2
+
+<h4>Manufacturer</h4>
+                        
+                          Intel
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Core i3-4330
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BX80646I34330
+                        
+                    
+                      <h4>Data Width</h4>
+                        
+                          64-bit
+                        
+                    
+                      <h4>Socket</h4>
+                        
+                          LGA1150
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          3.5GHz
+                        
+                    
+                      <h4>Cores</h4>
+                        
+                          2

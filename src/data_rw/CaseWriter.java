@@ -37,7 +37,7 @@ public class CaseWriter extends DataWriter {
             int startMod = 11;
             for (int j = 0; j < d.size(); j++) {
                 if ((j + 1) % startMod == 0) {
-                    startMod += 13;
+                    startMod += n;
 
                 } else {
                     if ((j + 1) % n == 0) {

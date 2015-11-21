@@ -22,9 +22,9 @@ public class Application {
         
        // DataWriter caseF = new CaseWriter();
         
-        DataReader drCASE = new DataReader(caseFile, "case");
-        DataReader drMOBO = new DataReader(moboFile, "mobo");
-        //DataReader drGPU = new DataReader(gpuFile);
+        //DataReader drCASE = new DataReader(caseFile, "case");
+        //DataReader drMOBO = new DataReader(moboFile, "mobo");
+        DataReader drCPU = new DataReader(cpuFile, "cpu");
         //DataReader drRAM = new DataReader(ramFile);
     }
 }

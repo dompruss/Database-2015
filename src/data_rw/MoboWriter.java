@@ -38,22 +38,22 @@ public class MoboWriter extends DataWriter {
 
             for (int j = 0; j < d.size(); j++) {
                 if ((j + 1) % partMod == 0) {
-                    partMod += 16;
+                    partMod += n;
                     String info = (String) d.get(j);
                     //info = info.substring(0, info.indexOf("<"));
                     bufferedWriter.write(info + ",");
                 } else if ((j + 1) % memSlotMod == 0) {
-                    memSlotMod += 16;
+                    memSlotMod += n;
                     String info = (String) d.get(j);
                     info = info.replaceAll("\\d x ", "");
                     bufferedWriter.write(info + ",");
                 } else if ((j + 1) % memTypeMod == 0) {
-                    memTypeMod += 16;
+                    memTypeMod += n;
                     String info = (String) d.get(j);
                     info = info.substring(0, info.indexOf("-"));
                     bufferedWriter.write(info + ",");
                 } else if ((j + 1) % maxMemMod == 0) {
-                    maxMemMod += 16;
+                    maxMemMod += n;
                     String info = (String) d.get(j);
                     info = info.substring(0, info.indexOf("G"));
                     bufferedWriter.write(info + ",");

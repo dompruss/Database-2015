@@ -30,9 +30,9 @@ public class DataReader {
         fileName = inFileName;
         numAttributes = 0;
         getAttributesAndData();
-        //printAttributes(attributes);
+        printAttributes(attributes);
         trimData(data);
-        //printData(data);
+        printData(data);
         setDataWriter(component);
         //dw.writeData(attributes, data, numAttributes);
         System.out.println();
@@ -51,6 +51,11 @@ public class DataReader {
                 DataWriter moboW = new MoboWriter(convertFileName(fileName), numAttributes);
                 moboW.writeData(attributes, data, numAttributes);
                 moboW.writeSecondaryTables(attributes, data, moboW.moboSpeeds, "MOBO_SPEED.csv", 7, numAttributes, "\\w*-", " / ");
+                break;
+                
+            case "cpu":
+                DataWriter cpuW = new CpuWriter(convertFileName(fileName), numAttributes);
+                cpuW.writeData(attributes, data, numAttributes);
                 break;
 
             default:
@@ -125,7 +130,7 @@ public class DataReader {
     public void printData(ArrayList a) {
         for (Object a1 : a) {
 
-            System.out.print(a1);
+            System.out.print(a1 + ", ");
         }
     }
 

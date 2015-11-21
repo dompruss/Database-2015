@@ -22,7 +22,6 @@ public class DataWriter {
     protected String fileName;
     protected FileWriter fileWriter;
     protected BufferedWriter bufferedWriter;
-    //protected BufferedWriter secondaryWriter;
     protected int numAttributes = 0;
     protected String[] moboForm = new String[]{"AT", "ATX", "EATX", "EEATX", "Flex ATX",
         "HPTX", "Micro ATX", "Mini ITX", "SSI CEB", "SSI EEB", "Thin Mini ITX", "XL ATX"};

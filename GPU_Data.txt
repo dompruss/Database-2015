@@ -1,5 +1,252 @@
 <h4>Manufacturer</h4>
                         
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          06G-P4-4990-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.0GHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-3962-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.22Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          6.81&quot; (173mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-1970-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.05Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          9.49&quot; (241mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
                           MSI
                         
                     
@@ -81,3 +328,3951 @@
                       <h4>HDMI</h4>
                         
                           1
+
+ <h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R9 390 GAMING 8G<br/>(or) V308-041R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 390
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          8GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.0GHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          275 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.91&quot; (277mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          2
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-2966-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.28Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.12&quot; (257mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          STRIXGTX970DC2OC4GD5<br/>(or) STRIX-GTX970-DC2OC-4GD5<br/>(or) 90YV07F0-M0NA00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.11Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.02&quot; (280mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 980 Ti Gaming 6G<br/>(or) V323-001R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.18Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.10&quot; (282mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-3753-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 750 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.18Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          60 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          6.69&quot; (170mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-2974-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.17Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          9.49&quot; (241mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-2983-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.27Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          165 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R9 380 GAMING 4G<br/>(or) V314-011R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 380
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          970MHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          190 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.55&quot; (268mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          06G-P4-4995-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.10Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 960 GAMING 4G<br/>(or) V320-034R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.24Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+    <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-3975-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.19Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.12&quot; (257mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          12G-P4-2992-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX Titan X
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          12GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.13Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          STRIX-GTX960-DC2OC-4GD5<br/>(or) 90YV07Q0-M0NA00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.25Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          8.50&quot; (216mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-2956-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 950
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.17Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          90 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.12&quot; (257mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+
+                      <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-3967-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.28Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.12&quot; (257mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 980 GAMING 4G<br/>(or) V317-008R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.19Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          165 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.98&quot; (279mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GV-N98TG1 GAMING-6GD
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.19Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.61&quot; (295mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GV-N970G1 GAMING-4GD
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.18Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          12.28&quot; (312mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-3757-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 750 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.19Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          60 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          9.49&quot; (241mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-3966-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.28Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.12&quot; (257mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 960 2GD5T OC<br/>(or) V320-006R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.18Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.75&quot; (273mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R9 390X GAMING 8G<br/>(or) V308-040R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 390X
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          8GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.05Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          275 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.91&quot; (277mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          2
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          STRIX-GTX980TI-DC3OC-6GD5-GAMING<br/>(or) 90YV08J0-M0NM00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.22Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          12.01&quot; (305mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          TURBO-GTX970-OC-4GD5<br/>(or) 90YV07C2-M0NA00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.09Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.39&quot; (264mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          STRIX-R9390-DC3OC-8GD5-GAMING<br/>(or) 90YV08F1-M0NA00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 390
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          8GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.05Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          275 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.81&quot; (300mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          STRIX-GTX980-DC2OC-4GD5<br/>(or) 90YV07D0-M0NA00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.18Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          165 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.38&quot; (289mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          PowerColor
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AXR9 390 8GBD5-PPDHE
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 390
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          8GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.01Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          275 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          12.01&quot; (305mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          PowerColor
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AXR9 380 4GBD5-PPDHE
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 380
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          980MHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          190 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          8.19&quot; (208mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-2951-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 950
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.15Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          90 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          6.81&quot; (173mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-3751-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 750 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.02Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          60 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          6.69&quot; (170mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          06G-P4-1996-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.14Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          NVIDIA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          9001G4012510000
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.05Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Sapphire
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100382NTOC-2L
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 390
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          8GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.04Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          275 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          12.13&quot; (308mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          STRIX-GTX960-DC2OC-2GD5<br/>(or) 90YV07N1-M0NA00
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.23Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          8.46&quot; (215mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          04G-P4-2978-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.22Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          9.49&quot; (241mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 960 GAMING 2G<br/>(or) V320-004R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.22Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          06G-P4-4990-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.0GHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GV-N970WF3OC-4GD
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 970
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.11Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          145 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          3-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          12.20&quot; (310mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Sapphire
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100384NT4GOCL
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 380
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          985MHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          190 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          9.37&quot; (238mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Zotac
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          ZT-90505-10P
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.25Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          12.95&quot; (329mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GV-N960G1 GAMING-4GD
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.24Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.61&quot; (295mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Asus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTXTITANX-12GD5
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX Titan X
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          12GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.07Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.51&quot; (267mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GV-R939G1 GAMING-8GD
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 390
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          8GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.0GHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          275 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          9.21&quot; (234mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-2962-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 960
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.22Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          120 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          6.81&quot; (173mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GTX 980Ti 6GD5T OC<br/>(or) V323-014R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.10Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.91&quot; (277mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          02G-P4-2957-KR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 950
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.19Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          90 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.12&quot; (257mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Gigabyte
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GV-N98TWF3OC-6GD
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          GeForce GTX 980 Ti
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          6GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          1.06Ghz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          4-way SLI
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          11.02&quot; (280mm)
+                        
+                    
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          3
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          MSI
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R9 380 2GD5T OC<br/>(or) V314-013R
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 380
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          2GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          980MHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          190 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.00&quot; (254mm)
+                        
+                    
+                      <h4>Supports Freesync</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+
+<h4>Manufacturer</h4>
+                        
+                          Sapphire
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100362SR
+                        
+                    
+                      <h4>Interface</h4>
+                        
+                          PCI-Express x16
+                        
+                    
+                      <h4>Chipset</h4>
+                        
+                          Radeon R9 290
+                        
+                    
+                      <h4>Memory Size</h4>
+                        
+                          4GB
+                        
+                    
+                      <h4>Memory Type</h4>
+                        
+                          GDDR5
+                        
+                    
+                      <h4>Core Clock</h4>
+                        
+                          947MHz
+                        
+                    
+                      <h4>TDP</h4>
+                        
+                          250 Watts
+                        
+                    
+                      <h4>Fan</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>SLI Support</h4>
+                        
+                          No
+                        
+                    
+                      <h4>CrossFire Support</h4>
+                        
+                          4-way CrossFire
+                        
+                    
+                      <h4>Length</h4>
+                        
+                          10.91&quot; (277mm)
+                        
+                    
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
+                        
+                    
+                      <h4>DisplayPort</h4>
+                        
+                          1
+                        
+                    
+                      <h4>HDMI</h4>
+                        
+                          1
+

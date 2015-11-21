@@ -26,6 +26,9 @@ public class DataWriter {
     private String[] moboForm = new String[]{"AT", "ATX", "EATX", "EEATX", "Flex ATX",
         "HPTX", "Micro ATX", "Mini ITX", "SSI CEB", "SSI EEB", "Thin Mini ITX", "XL ATX"};
 
+    private String[] moboSpeeds = new String[]{"1066", "1333", "1600", "1800", "1866", "2000", "2133", "2200", "2400", "2500",
+        "2600", "2666", "2800", "2933", "3000", "3100", "3200", "3300"};
+
     public DataWriter(ArrayList a, ArrayList d, String writeFile, int inNumAttributes) {
 
         numAttributes = inNumAttributes;
@@ -48,11 +51,16 @@ public class DataWriter {
                     "Error reading file '"
                     + fileName + "'");
         }
-        
+
         switch (fileName) {
             case "CASE.csv":
                 writeCase(a, d, numAttributes);
-                writeCaseMoboComp(a, d);
+                writeSecondaryTables(a, d, moboForm, "CASE_MOBO_COMP.csv", 11, 13, "", ", ");
+                break;
+
+            case "MOBO.csv":
+                writeMobo(a, d, numAttributes);
+                writeSecondaryTables(a, d, moboSpeeds, "MOBO_SPEED.csv", 7, 16, "\\w*-", " / ");
                 break;
 
             default:
@@ -126,28 +134,90 @@ public class DataWriter {
         }
     }
 
-    public void writeCaseMoboComp(ArrayList a, ArrayList d) {
+    public void writeMobo(ArrayList a, ArrayList d, int n) {
+        try {
+            for (int i = 0; i < a.size(); i++) {
+                if (i != a.size() - 1) {
+                    bufferedWriter.write((String) a.get(i) + ",");
+                } else {
+                    bufferedWriter.write((String) a.get(i));
+                }
+
+            }
+
+            bufferedWriter.newLine();
+            int partMod = 2;
+            int memSlotMod = 6;
+            int memTypeMod = 7;
+            int maxMemMod = 8;
+
+            for (int j = 0; j < d.size(); j++) {
+                if ((j + 1) % partMod == 0) {
+                    partMod += 16;
+                    String info = (String) d.get(j);
+                    info = info.substring(0, info.indexOf("<"));
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % memSlotMod == 0) {
+                    memSlotMod += 16;
+                    String info = (String) d.get(j);
+                    info = info.replaceAll("\\d x ", "");
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % memTypeMod == 0) {
+                    memTypeMod += 16;
+                    String info = (String) d.get(j);
+                    info = info.substring(0, info.indexOf("-"));
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % maxMemMod == 0) {
+                    maxMemMod += 16;
+                    String info = (String) d.get(j);
+                    info = info.substring(0, info.indexOf("G"));
+                    bufferedWriter.write(info + ",");
+                } else {
+                    if ((j + 1) % n == 0) {
+                        bufferedWriter.write((String) d.get(j));
+                        bufferedWriter.newLine();
+                    } else {
+                        bufferedWriter.write((String) d.get(j) + ",");
+                    }
+                }
+
+            }
+
+            bufferedWriter.close();
+        } catch (IOException ex) {
+            System.out.println(
+                    "Error writing to file '"
+                    + fileName + "'");
+        }
+    }
+
+    public void writeSecondaryTables(ArrayList a, ArrayList d, String[] list, String fileName, int startMod, int n, String regex, String split) {
         FileWriter compWrite = null;
         try {
-            compWrite = new FileWriter("CASE_MOBO_COMP.csv");
+            int backTrack = startMod;
+            int modValue = startMod;
+            String header = fileName.substring(0, fileName.indexOf("_")) + " ";
+            compWrite = new FileWriter(fileName);
             BufferedWriter compBufferedWriter = new BufferedWriter(compWrite);
-            compBufferedWriter.write("CASE " + (String) a.get(0) + "," + "CASE " + (String) a.get(1) + "," + convertToString(moboForm));
+            compBufferedWriter.write(header + (String) a.get(0) + "," + header + (String) a.get(1) + "," + convertToString(list));
             compBufferedWriter.newLine();
-            int startMod = 11;
             for (int j = 0; j < d.size(); j++) {
-                if ((j + 1) % startMod == 0) {
-                    startMod += 13;
-                    String forms = (String) d.get(j);
-                    String[] matches = new String[moboForm.length];
-                    String[] splitForms = forms.split(", ");
-                    for (int k = 0; k < moboForm.length; k++) {
-                        if (searchArray(moboForm[k], splitForms)) {
+                if ((j + 1) % modValue == 0) {
+                    modValue += n;
+                    String data = (String) d.get(j);
+                    if (!regex.equals("")) {
+                        data = data.replaceAll(regex, "");
+                    }
+                    String[] matches = new String[list.length];
+                    String[] compare = data.split(split);
+                    for (int k = 0; k < list.length; k++) {
+                        if (searchArray(list[k], compare)) {
                             matches[k] = "1";
                         } else {
                             matches[k] = "0";
                         }
                     }
-                    compBufferedWriter.write((String) d.get(j - 10) + "," + (String) d.get(j - 9) + "," + convertToString(matches));
+                    compBufferedWriter.write((String) d.get(j - (backTrack - 1)) + "," + (String) d.get(j - (backTrack - 2)) + "," + convertToString(matches));
                     compBufferedWriter.newLine();
                 }
             }

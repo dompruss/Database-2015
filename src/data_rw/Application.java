@@ -20,8 +20,10 @@ public class Application {
         String hardDriveFile = "HARDDRIVE_Data.txt";
         String powerSupplyFile = "POWERSUPPLY.txt";
         
-        DataReader drCASE = new DataReader(moboFile);
-        //DataReader drMOBO = new DataReader(moboFile);
+       // DataWriter caseF = new CaseWriter();
+        
+        DataReader drCASE = new DataReader(caseFile, "case");
+        DataReader drMOBO = new DataReader(moboFile, "mobo");
         //DataReader drGPU = new DataReader(gpuFile);
         //DataReader drRAM = new DataReader(ramFile);
     }

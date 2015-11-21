@@ -1,0 +1,1969 @@
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX600M<br/>(or) CP-9020060-NA<br/>(or) CP-9020060-UK<br/>(or) CMPSU-600CXM<br/>(or) CP-9020060-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          600 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 650
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          120-G1-0650-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          650 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+ <h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX500M<br/>(or) CP-9020059-UK<br/>(or) CMPSU-500CXM<br/>(or) CP-9020059-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 750
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-G2-0750-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100-W1-0500-KR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX430M<br/>(or) CMPSU-430CXM<br/>(or) CP-9020058-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          430 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX750M<br/>(or) CP-9020061-UK<br/>(or) CMPSU-750CXM<br/>(or) CP-9020061-AU<br/>(or) CP-9020061-NA
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 850
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-G2-0850-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          850 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          500B
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100-B1-0500-KR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 550
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-GS-0550-V1<br/>(or) 220-GS-0550-V2
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+ <h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          AX1500i
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CP-9020057-NA<br/>(or) CP-9020057-UK<br/>(or) AX1500i<br/>(or) CMPSU-AX1500i<br/>(or) CP-9020057-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Titanium
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX430<br/>(or) CP-9020058-UK<br/>(or) CP-9020058-NA<br/>(or) CP-9020058-US
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          430 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 750
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          120-G1-0750-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100-W1-0430-KR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          430 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 650
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-GS-0650-V1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          650 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          600B
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100-B1-0600-KR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          600 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RM750<br/>(or) CP-9020055-UK<br/>(or) CP-9020055-WW<br/>(or) CP-9020055-NA<br/>(or) CP-9020055-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 750
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          110-B2-0750-VR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX500<br/>(or) CP-9020047-UK<br/>(or) CP-9020047-AU<br/>(or) CP-9020047-US<br/>(or) CP-9020047-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 1600
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-T2-1600-X1<br/>(or) 220-T2-1600-X3
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1600 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Titanium
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 650
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-G2-0650-Y1<br/>(or) 220-G2-0650-Y3
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          650 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 1000
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-P2-1000-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1000 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX760<br/>(or) CP-9020045-NA<br/>(or) CP-9020045-UK<br/>(or) CP-9020045-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          760 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RM850<br/>(or) CP-9020056-UK<br/>(or) CP-9020056-NA<br/>(or) CP-9020056-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          850 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CS450M<br/>(or) CP-9020075-UK<br/>(or) CP-9020075-NA<br/>(or) CP-9020075-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          450 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RM650<br/>(or) CP-9020054-UK<br/>(or) CP-9020054-NA<br/>(or) CP-9020054-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          650 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CX600<br/>(or) CP-9020048-UK<br/>(or) CP-9020048-US<br/>(or) CP-9020048-NA<br/>(or) CP-9020048-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          600 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RM1000<br/>(or) CP-9020062-UK<br/>(or) CP-9020062-NA<br/>(or) P-9020062-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1000 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA NEX750B
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          110-B1-0750-VR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 550
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-G2-0550-Y1<br/>(or) 220-G2-0550-Y3
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SST-SX500-LG<br/>(or) SX500-LG
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          SFX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          XFX
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          P1-550S-XXB9
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX1200i<br/>(or) CP-9020008-NA<br/>(or) CP-9020008-UK<br/>(or) CMPSU-AX1200i<br/>(or) CP-9020008-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1200 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          HX750i
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CP-9020072<br/>(or) CP-9020072-UK<br/>(or) CP-9020072-NA<br/>(or) CP-9020072-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          750 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Logisys
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PS480D-BK
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          480 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          100-N1-0400-L1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          400 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SX600-G
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SST-SX600-G<br/>(or) SX600-G
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          SFX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          600 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          HX1000i
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CP-9020074<br/>(or) CP-9020074-UK<br/>(or) CP-9020074-NA<br/>(or) CP-9020074-AU<br/>(or) CP-9020074-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1000 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 850
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          220-P2-0850-X1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          850 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CS550M<br/>(or) CP-9020076-UK<br/>(or) CP-9020076-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+ <h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          ST45SF-G<br/>(or) SST-ST45SF-G
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          SFX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          450 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+ <h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          HX850i
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CP-9020073<br/>(or) CP-9020073-UK<br/>(or) CMPSU-HX850i<br/>(or) HX850i<br/>(or) CP-9020073-NA<br/>(or) CP-9020073-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          850 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RS550-AMAAG1-S1<br/>(or) RS550-AMAAG1-US
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX860i<br/>(or) CP-9020037-NA<br/>(or) CMPSU-AX860i<br/>(or) CP-9020037-UK<br/>(or) CP-9020037-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          860 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          SeaSonic
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          S12II 620 Bronze
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          620 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+ <h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 1000
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          120-G2-1000-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1000 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          SeaSonic
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          S12II 520 Bronze
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          520 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          SeaSonic
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SSR-550RM
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX860<br/>(or) CP-9020044-NA<br/>(or) CP-9020044-UK<br/>(or) CP-9020044-AU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          860 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Platinum
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RS-650-AMAA-G1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          650 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 850
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          110-B2-0850-V1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          850 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Semi
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          EVGA
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SuperNOVA 1300
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          120-G2-1300-XR
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          1300 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Corsair
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RM550<br/>(or) CP-9020053-UK<br/>(or) CP-9020053-NA<br/>(or) CP-9020053-EU
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V / EPS12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          550 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          Full
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
+<h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          ST30SF<br/>(or) SST-ST30SF
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          SFX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          300 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          TR-500
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          ATX12V
+                        
+                    
+                      <h4>Wattage</h4>
+                        
+                          500 Watts
+                        
+                    
+                      <h4>Fans</h4>
+                        
+                          1
+                        
+                    
+                      <h4>Modular</h4>
+                        
+                          No

@@ -1,0 +1,1624 @@
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper 212 EVO
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-212E-20PK-R2<br/>(or) RR-212E-16PK-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          9.0 - 36.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          600 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper TX3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-910-HTX3-G1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          17.0 - 35.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          800 - 2800 RPM
+
+ <h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-D14
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          12.6 - 19.8 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          900 - 1200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-D15
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA2011, LGA2011-3
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          19.2 - 24.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          300 - 1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          CRYORIG
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H7<br/>(or) CR-H7A
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          1.0 - 25.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          330 - 1600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper 212 Plus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-B10-212P-G1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          13.0 - 32.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          600 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-L9i
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          LGA1150, LGA1151, LGA1155, LGA1156
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2500 - 2999 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          be quiet!
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Dark Rock Pro 3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BK019<br/>(or) DARK ROCK PRO 3
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          13.2 - 26.1 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1400 - 1700 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper T2
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-HT2-28PK-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          17.0 - 35.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2800 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Arctic Cooling
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          Freezer 7 Pro Rev.2
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          900 - 2500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-U12S
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA2011, LGA2011-3
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          18.6 - 22.4 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          300 - 1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper T4
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-T4-18PK-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Rifle
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          15.1 - 31.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1800 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          be quiet!
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Dark Rock 3
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BK018
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          8.4 - 21.1 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          400 - 1400 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          GeminII M4
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-GMM4-16PK-R2
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          8.0 - 30.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          500 - 1600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          V8
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-V8VC-16PR-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          36.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-U9S
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA2011, LGA2011-3
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          16.3 - 22.8 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          400 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          be quiet!
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          PURE ROCK
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BK009
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          19.1 - 26.8 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Masscool
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          8WT15-38
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          30.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2400 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          be quiet!
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Dark Rock Advanced C1
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BK014
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          6.6 - 18.8 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Arctic Cooling
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Alpine 11 Plus
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          UCACO-AP11301-BUA01
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          14.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          600 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Phanteks
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PH-TC12DX_BK
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          21.9 - 27.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          600 - 1800 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          CRYORIG
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          H5 Universal<br/>(or) CR-H5A
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          20.0 - 24.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          700 - 1300 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-U14S
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA2011, LGA2011-3
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          19.2 - 24.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          300 - 1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Arctic Cooling
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          ACALP64-GT
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          500 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Deepcool
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GAMMAXX 400
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          21.4 - 32.1 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          900 - 1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Deepcool
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GAMMAXX 200
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          17.8 - 34.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          900 - 2200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper 212X
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-212X-20PM-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          9.0 - 36.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          600 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Arctic Cooling
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Alpine 11 Pro Rev. 2
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          ACALP11-PRO-R2
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          500 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-L12
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          13.1 - 22.4 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1200 - 1600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Silverstone
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AR06
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          20.0 - 28.3 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          RAIJINTEK
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          AIDOS BLACK
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          0R100009
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          28.9 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1000 - 2200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Phanteks
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PH-TC14PE_BK
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          13.4 - 19.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          900 - 1200 RPM
+
+ <h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper TX3 Evo
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-TX3E-22PK-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          800 - 2200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Gelid Solutions
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CC-Siberian-01
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          10.0 - 22.5 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          900 - 2200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-D9L
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA2011, LGA2011-3
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          16.3 - 22.8 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          400 - 2000 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-D15S
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA2011, LGA2011-3
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          19.2 - 24.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          300 - 1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Thermaltake
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CL-P0503
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Rifle
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          29.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2900 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Rosewill
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RCX-Z775-LP
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Sleeve
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          16.0 - 24.5 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          600 - 2600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper 103
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-H103-22PB-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          17.0 - 30.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          800 - 2200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-U9B SE2
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          7.9 - 17.6 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1000 - 1600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          be quiet!
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          SHADOW ROCK LP
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BK002
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          14.8 - 25.5 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Zalman
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CNPS8900 Quiet
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, BGA413, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          19.0 - 25.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1000 - 1500 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Cooler Master
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Hyper D92
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          RR-HD92-28PK-R1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Rifle
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          18.0 - 33.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          800 - 2800 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          CRYORIG
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          R1 Ultimate
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CR-R1A
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          23.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          700 - 1300 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Zalman
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CNPS5X Performa
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          20.0 - 32.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1400 - 2800 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          CRYORIG
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          C1
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CR-C1A
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          24.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          700 - 1300 RPM
+
+ <h4>Manufacturer</h4>
+                        
+                          Arctic Cooling
+                        
+                    
+                      <h4>Model</h4>
+                        
+                          Alpine 11 GT
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          UCACO-AP112-GBB01
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          22.5 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2000 RPM
+
+ <h4>Manufacturer</h4>
+                        
+                          SilenX
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          EFZ-80HA3
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA775
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Bearing Type</h4>
+                        
+                          Fluid Dynamic
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          8.0 - 24.0 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2200 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Gelid Solutions
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CC-Ssilence-AM1
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM1
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Noise Level</h4>
+                        
+                          15.0 - 27.2 dbA
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          1200 - 2600 RPM
+
+<h4>Manufacturer</h4>
+                        
+                          Noctua
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          NH-L9a
+                        
+                    
+                      <h4>Supported Sockets</h4>
+                        
+                          AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+
+                        
+                    
+                      <h4>Liquid Cooled</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Fan RPM</h4>
+                        
+                          2500 RPM

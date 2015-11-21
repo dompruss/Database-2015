@@ -35,12 +35,11 @@ public class CpuWriter extends DataWriter {
                 if ((j + 1) % startMod == 0) {
                     startMod += n;
                     String info = (String)d.get(j);
-                    info = info.substring(0, info.indexOf("G")) + "";
+                    info = info.substring(0, info.indexOf("G")) + ",";
                     bufferedWriter.write(info);
 
                 } else {
                     if ((j + 1) % n == 0) {
-                        System.out.println((String) d.get(j));
                         bufferedWriter.write((String) d.get(j));
                         bufferedWriter.newLine();
                     } else {

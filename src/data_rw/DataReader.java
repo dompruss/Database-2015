@@ -30,9 +30,9 @@ public class DataReader {
         fileName = inFileName;
         numAttributes = 0;
         getAttributesAndData();
-        //printAttributes(attributes);
+        printAttributes(attributes);
         trimData(data);
-        //printData(data);
+        printData(data);
         setDataWriter(component);
         //dw.writeData(attributes, data, numAttributes);
         System.out.println();
@@ -56,6 +56,11 @@ public class DataReader {
             case "cpu":
                 DataWriter cpuW = new CpuWriter(convertFileName(fileName), numAttributes);
                 cpuW.writeData(attributes, data, numAttributes);
+                break;
+                
+            case "ram":
+                DataWriter ramW = new RamWriter(convertFileName(fileName), numAttributes);
+                ramW.writeData(attributes, data, numAttributes);
                 break;
 
             default:

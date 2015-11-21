@@ -1,4 +1,4 @@
-CASEManufacturer,CASEModel,AT,ATX,EATX,EEATX,FlexATX,HPTX,MicroATX,MiniITX,SSICEB,SSIEEB,ThinMiniITX,XLATX
+CASEManufacturer,CASEModel,AT,ATX,EATX,EEATX,Flex_ATX,HPTX,Micro_ATX,Mini_ITX,SSI_CEB,SSI_EEB,Thin_Mini_ITX,XL_ATX
 Cooler Master,Silencio 352,0,0,0,0,0,0,1,1,0,0,0,0
 Cooler Master,K280,0,1,0,0,0,0,1,1,0,0,0,0
 Cooler Master,N400,0,1,0,0,0,0,1,1,0,0,0,0

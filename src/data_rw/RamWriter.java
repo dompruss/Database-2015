@@ -17,34 +17,25 @@ public class RamWriter extends DataWriter {
     public RamWriter(String writeFile, int numAttributes) {
         super(writeFile, numAttributes);
     }
-    
+
     @Override
-    public void writeData(ArrayList a, ArrayList d, int n){
+    public void writeData(ArrayList a, ArrayList d, int n) {
         try {
             for (int i = 0; i < a.size(); i++) {
-                    if (i != a.size() - 1) {
-                        bufferedWriter.write((String) a.get(i) + ",");
-                    } else {
-                        bufferedWriter.write((String) a.get(i));
-                    }
+                if (i != a.size() - 1) {
+                    bufferedWriter.write((String) a.get(i) + ",");
+                } else {
+                    bufferedWriter.write((String) a.get(i));
+                }
             }
 
-            bufferedWriter.newLine();
-            int startMod = 6;
+            bufferedWriter.newLine();;
             for (int j = 0; j < d.size(); j++) {
-                if ((j + 1) % startMod == 0) {
-                    startMod += n;
-                    String info = (String)d.get(j);
-                    info = info.substring(0, info.indexOf("G")) + ",";
-                    bufferedWriter.write(info);
-
+                if ((j + 1) % n == 0) {
+                    bufferedWriter.write((String) d.get(j));
+                    bufferedWriter.newLine();
                 } else {
-                    if ((j + 1) % n == 0) {
-                        bufferedWriter.write((String) d.get(j));
-                        bufferedWriter.newLine();
-                    } else {
-                        bufferedWriter.write((String) d.get(j) + ",");
-                    }
+                    bufferedWriter.write((String) d.get(j) + ",");
                 }
 
             }
@@ -55,5 +46,5 @@ public class RamWriter extends DataWriter {
                     "Error writing to file '"
                     + fileName + "'");
         }
-    } 
+    }
 }

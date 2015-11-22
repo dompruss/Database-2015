@@ -1247,35 +1247,6 @@
 
 <h4>Manufacturer</h4>
                         
-                          Intel
-                        
-                    
-                      <h4>Part #</h4>
-                        
-                          SSDSC2BA012T401
-                        
-                    
-                      <h4>Capacity</h4>
-                        
-                          1.2TB
-                        
-                    
-                      <h4>Interface</h4>
-                        
-                          SATA 6 Gb/s
-                        
-                    
-                      <h4>Cache</h4>
-                        
-                          N/A
-                        
-                    
-                      <h4>Form Factor</h4>
-                        
-                          2.5&quot;
-
-<h4>Manufacturer</h4>
-                        
                           Samsung
                         
                     

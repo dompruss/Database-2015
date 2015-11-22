@@ -14,10 +14,10 @@ public class Application {
         String caseFile = "CASE_Data.txt"; //done
         String moboFile = "MOBO_Data.txt"; //done
         String cpuFile = "CPU_Data.txt"; //done
-        String ramFile = "RAM_Data.txt"; //done
+        String hardDriveFile = "HARDDRIVE_Data.txt"; //done
+        String ramFile = "RAM_Data.txt"; 
         String heatSinkFile = "HEATSINK_Data.txt";
         String gpuFile = "GPU_Data.txt";
-        String hardDriveFile = "HARDDRIVE_Data.txt";
         String powerSupplyFile = "PSU_Data.txt";
         
        // DataWriter caseF = new CaseWriter();

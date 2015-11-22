@@ -28,6 +28,9 @@ public class DataWriter {
 
     protected String[] moboSpeeds = new String[]{"1066", "1333", "1600", "1800", "1866", "2000", "2133", "2200", "2400", "2500",
         "2600", "2666", "2800", "2933", "3000", "3100", "3200", "3300"};
+    
+    protected String[] heatSock = new String[]{"AM2", "AM2+", "AM3", "AM3+", "FM1", "FM2", "FM2+", "LGA1150", "LGA1151", "LGA1155", 
+        "LGA1156", "LGA1366", "LGA2011", "LGA2011-3", "LGA775"};
 
     public DataWriter(String writeFile, int inNumAttributes) {
         try {

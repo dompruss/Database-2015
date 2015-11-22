@@ -72,6 +72,12 @@ public class DataReader {
                 DataWriter gpuW = new GpuWriter(convertFileName(fileName), numAttributes);
                 gpuW.writeData(attributes, data, numAttributes);
                 break;
+                
+            case "heatsink":
+                DataWriter hsW = new HeatSinkWriter(convertFileName(fileName), numAttributes);
+                hsW.writeData(attributes, data, numAttributes);
+                hsW.writeSecondaryTables(attributes, data, hsW.heatSock, "HEATSINK_SOCKET.csv", 4, numAttributes, "", ", ");
+                break;
 
             default:
                 System.out.println("Invalid file name");

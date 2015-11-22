@@ -23,41 +23,33 @@ public class HeatSinkWriter extends DataWriter {
         try {
 
             for (int i = 0; i < a.size(); i++) {
-                
-                    if(i == 2){
-                        bufferedWriter.write((String) a.get(i));
-                    }
-                    else if (i != a.size() - 1) {
-                        bufferedWriter.write((String) a.get(i) + ",");
-                    }
-                }
 
-            
+                if (i == 2) {
+                    bufferedWriter.write((String) a.get(i));
+                } else if (i != a.size() - 1) {
+                    bufferedWriter.write((String) a.get(i) + ",");
+                }
+            }
 
             bufferedWriter.newLine();
-            int partMod = 2;
-            int lengthMod = 12;
+            int startMod = 4;
+            int partMod = 3;
 
             for (int j = 0; j < d.size(); j++) {
-                if ((j + 1) % partMod == 0) {
+                if ((j + 1) % startMod == 0) {
+                    startMod += n;
+                    //bufferedWriter.newLine();
+                } else if ((j + 1) % partMod == 0) {
                     partMod += n;
                     String info = (String) d.get(j);
                     if (info.contains("<")) {
                         info = info.substring(0, info.indexOf("<"));
                     }
-                    bufferedWriter.write(info + ",");
-                } else if ((j + 1) % lengthMod == 0) {
-                    lengthMod += n;
-                    String info = (String) d.get(j);
-                    info = info.substring(0, info.indexOf("&"));
-                    bufferedWriter.write(info + ",");
+                    bufferedWriter.write(info);
+                    bufferedWriter.newLine();
                 } else {
-                    if ((j + 1) % n == 0) {
-                        bufferedWriter.write((String) d.get(j));
-                        bufferedWriter.newLine();
-                    } else {
-                        bufferedWriter.write((String) d.get(j) + ",");
-                    }
+                    bufferedWriter.write((String) d.get(j) + ",");
+
                 }
 
             }
@@ -68,6 +60,6 @@ public class HeatSinkWriter extends DataWriter {
                     "Error writing to file '"
                     + fileName + "'");
         }
-}
-    
+    }
+
 }

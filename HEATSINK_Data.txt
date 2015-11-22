@@ -620,7 +620,6 @@
                         
                           AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+, LGA1150, LGA1151, LGA1155, LGA1156, LGA1366, LGA2011, LGA2011-3, LGA775
                         
-                          900 - 1200 RPM
 
  <h4>Manufacturer</h4>
                         
@@ -735,7 +734,6 @@
                       <h4>Supported Sockets</h4>
                         
                           LGA1150, LGA1151, LGA1155, LGA1156, LGA775
-                          600 - 2600 RPM
 
 <h4>Manufacturer</h4>
                         

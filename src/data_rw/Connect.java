@@ -21,7 +21,7 @@ public class Connect
        try
        {
 
-           String url = "jdbc:mysql://153.90.2.81:3306/csci440.cs.montana.edu/phpMyAdmin/";
+           String url = "jdbc:mysql://csci440.cs.montana.edu/phpMyAdmin:3306";
            Class.forName ("com.mysql.jdbc.Driver");
            conn = DriverManager.getConnection (url,"mooren","t3gjws7quz");
            System.out.println ("Database connection established");

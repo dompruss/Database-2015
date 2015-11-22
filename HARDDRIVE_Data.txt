@@ -23,11 +23,6 @@
                           64MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -57,11 +52,6 @@
                           64MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -89,11 +79,6 @@
                       <h4>Cache</h4>
                         
                           64MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -183,11 +168,6 @@
                           64MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -244,11 +224,6 @@
                       <h4>Cache</h4>
                         
                           64MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -365,11 +340,6 @@
                       <h4>Cache</h4>
                         
                           64MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -575,16 +545,6 @@
                           64MB
                         
                     
-                      <h4>Hybrid SSD Cache</h4>
-                        
-                          7.8GB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -730,16 +690,6 @@
                           64MB
                         
                     
-                      <h4>Hybrid SSD Cache</h4>
-                        
-                          7.8GB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -827,11 +777,6 @@
                           128MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          5900
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -861,11 +806,6 @@
                           8MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -893,11 +833,6 @@
                       <h4>Cache</h4>
                         
                           32MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -987,11 +922,6 @@
                           128MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -1048,11 +978,6 @@
                       <h4>Cache</h4>
                         
                           64MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          5400
                         
                     
                       <h4>Form Factor</h4>
@@ -1113,11 +1038,6 @@
                           64MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          5400
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -1145,11 +1065,6 @@
                       <h4>Cache</h4>
                         
                           64MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -1210,11 +1125,6 @@
                           64MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -1242,11 +1152,6 @@
                       <h4>Cache</h4>
                         
                           64MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          5400
                         
                     
                       <h4>Form Factor</h4>
@@ -1278,11 +1183,6 @@
                           128MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          7200
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -1312,11 +1212,6 @@
                           64MB
                         
                     
-                      <h4>RPM</h4>
-                        
-                          5400
-                        
-                    
                       <h4>Form Factor</h4>
                         
                           3.5&quot;
@@ -1344,11 +1239,6 @@
                       <h4>Cache</h4>
                         
                           128MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -1436,11 +1326,6 @@
                       <h4>Cache</h4>
                         
                           16MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>
@@ -1586,11 +1471,6 @@
                       <h4>Cache</h4>
                         
                           16MB
-                        
-                    
-                      <h4>RPM</h4>
-                        
-                          7200
                         
                     
                       <h4>Form Factor</h4>

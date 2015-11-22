@@ -62,6 +62,11 @@ public class DataReader {
                 DataWriter ramW = new RamWriter(convertFileName(fileName), numAttributes);
                 ramW.writeData(attributes, data, numAttributes);
                 break;
+                
+            case "harddrive":
+                DataWriter hdW = new HardDriveWriter(convertFileName(fileName), numAttributes);
+                hdW.writeData(attributes, data, numAttributes);
+                break;
 
             default:
                 System.out.println("Invalid file name");

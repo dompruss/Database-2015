@@ -1,2 +1,54 @@
-Manufacturer,Part #,Interface,Chipset,Memory Size,Memory Type,Core Clock,TDP,Fan,SLI Support,CrossFire Support,Length,Supports G-Sync,DVI-D Dual-Link,DVI-I Dual-Link,DisplayPort,HDMI
-MSI,GTX 970 GAMING 4G<br/>(or) V316-001R,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.14Ghz,145 Watts,Yes,3-way SLI,No,10.59&quot; (269mm),Yes,1,1,1,1
+Manufacturer,PartNum,Interface,Chipset,MemorySize,MemoryType,CoreClock,TDP,Fan,SLISupport,CrossFireSupport,Length,SupportsG-Sync,DVI-DDual-Link,DVI-IDual-Link,DisplayPort,HDMI
+EVGA,06G-P4-4990-KR,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.0GHz,250 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+EVGA,04G-P4-3962-KR,PCI-Express x16,GeForce GTX 960,4GB,GDDR5,1.22Ghz,120 Watts,Yes,Yes,No,6.81,Yes,1,1,1,1
+EVGA,04G-P4-1970-KR,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.05Ghz,145 Watts,Yes,3-way SLI,No,9.49,Yes,1,1,1,1
+MSI,GTX 970 GAMING 4G,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.14Ghz,145 Watts,Yes,3-way SLI,No,10.59,Yes,1,1,1,1
+MSI,R9 390 GAMING 8G,PCI-Express x16,Radeon R9 390,8GB,GDDR5,1.0GHz,275 Watts,Yes,No,4-way CrossFire,10.91,Yes,2,2,1,1
+EVGA,02G-P4-2966-KR,PCI-Express x16,GeForce GTX 960,2GB,GDDR5,1.28Ghz,120 Watts,Yes,Yes,No,10.12,Yes,1,1,3,1
+Asus,STRIXGTX970DC2OC4GD5,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.11Ghz,145 Watts,Yes,3-way SLI,No,11.02,Yes,1,1,1,1
+MSI,GTX 980 Ti Gaming 6G,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.18Ghz,250 Watts,Yes,4-way SLI,No,11.10,Yes,1,1,3,1
+EVGA,02G-P4-3753-KR,PCI-Express x16,GeForce GTX 750 Ti,2GB,GDDR5,1.18Ghz,60 Watts,Yes,No,No,6.69,Yes,1,1,1,1
+EVGA,04G-P4-2974-KR,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.17Ghz,145 Watts,Yes,3-way SLI,No,9.49,Yes,1,1,1,1
+EVGA,04G-P4-2983-KR,PCI-Express x16,GeForce GTX 980,4GB,GDDR5,1.27Ghz,165 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+MSI,R9 380 GAMING 4G,PCI-Express x16,Radeon R9 380,4GB,GDDR5,970MHz,190 Watts,Yes,No,Yes,10.55,Yes,1,1,1,1
+EVGA,06G-P4-4995-KR,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.10Ghz,250 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+MSI,GTX 960 GAMING 4G,PCI-Express x16,GeForce GTX 960,4GB,GDDR5,1.24Ghz,120 Watts,Yes,Yes,No,10.51,Yes,1,1,3,1
+EVGA,04G-P4-3975-KR,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.19Ghz,145 Watts,Yes,3-way SLI,No,10.12,Yes,1,1,3,1
+EVGA,12G-P4-2992-KR,PCI-Express x16,GeForce GTX Titan X,12GB,GDDR5,1.13Ghz,250 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+Asus,STRIX-GTX960-DC2OC-4GD5,PCI-Express x16,GeForce GTX 960,4GB,GDDR5,1.25Ghz,120 Watts,Yes,Yes,No,8.50,Yes,1,1,3,1
+EVGA,02G-P4-2956-KR,PCI-Express x16,GeForce GTX 950,2GB,GDDR5,1.17Ghz,90 Watts,Yes,Yes,No,10.12,Yes,1,1,3,1
+EVGA,04G-P4-3967-KR,PCI-Express x16,GeForce GTX 960,4GB,GDDR5,1.28Ghz,120 Watts,Yes,Yes,No,10.12,Yes,1,1,3,1
+MSI,GTX 980 GAMING 4G,PCI-Express x16,GeForce GTX 980,4GB,GDDR5,1.19Ghz,165 Watts,Yes,4-way SLI,No,10.98,Yes,1,1,3,1
+Gigabyte,GV-N98TG1 GAMING-6GD,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.19Ghz,250 Watts,Yes,4-way SLI,No,11.61,Yes,1,1,3,1
+Gigabyte,GV-N970G1 GAMING-4GD,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.18Ghz,145 Watts,Yes,3-way SLI,No,12.28,Yes,1,1,3,1
+EVGA,02G-P4-3757-KR,PCI-Express x16,GeForce GTX 750 Ti,2GB,GDDR5,1.19Ghz,60 Watts,Yes,No,No,9.49,Yes,1,1,1,1
+EVGA,04G-P4-3966-KR,PCI-Express x16,GeForce GTX 960,4GB,GDDR5,1.28Ghz,120 Watts,Yes,Yes,No,10.12,Yes,1,1,3,1
+MSI,GTX 960 2GD5T OC,PCI-Express x16,GeForce GTX 960,2GB,GDDR5,1.18Ghz,120 Watts,Yes,Yes,No,10.75,Yes,1,1,3,1
+MSI,R9 390X GAMING 8G,PCI-Express x16,Radeon R9 390X,8GB,GDDR5,1.05Ghz,275 Watts,Yes,No,4-way CrossFire,10.91,Yes,2,1,1,1
+Asus,STRIX-GTX980TI-DC3OC-6GD5-GAMING,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.22Ghz,250 Watts,Yes,4-way SLI,No,12.01,Yes,1,1,3,1
+Asus,TURBO-GTX970-OC-4GD5,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.09Ghz,145 Watts,Yes,3-way SLI,No,10.39,Yes,1,1,1,1
+Asus,STRIX-R9390-DC3OC-8GD5-GAMING,PCI-Express x16,Radeon R9 390,8GB,GDDR5,1.05Ghz,275 Watts,Yes,No,4-way CrossFire,11.81,Yes,1,1,3,1
+Asus,STRIX-GTX980-DC2OC-4GD5,PCI-Express x16,GeForce GTX 980,4GB,GDDR5,1.18Ghz,165 Watts,Yes,4-way SLI,No,11.38,Yes,1,1,3,1
+PowerColor,AXR9 390 8GBD5-PPDHE,PCI-Express x16,Radeon R9 390,8GB,GDDR5,1.01Ghz,275 Watts,Yes,No,4-way CrossFire,12.01,Yes,1,1,1,1
+PowerColor,AXR9 380 4GBD5-PPDHE,PCI-Express x16,Radeon R9 380,4GB,GDDR5,980MHz,190 Watts,Yes,No,Yes,8.19,Yes,1,1,1,1
+EVGA,02G-P4-2951-KR,PCI-Express x16,GeForce GTX 950,2GB,GDDR5,1.15Ghz,90 Watts,Yes,Yes,No,6.81,Yes,1,1,3,1
+EVGA,02G-P4-3751-KR,PCI-Express x16,GeForce GTX 750 Ti,2GB,GDDR5,1.02Ghz,60 Watts,Yes,No,No,6.69,Yes,1,1,1,1
+EVGA,06G-P4-1996-KR,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.14Ghz,250 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+NVIDIA,9001G4012510000,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.05Ghz,145 Watts,Yes,3-way SLI,No,10.51,Yes,1,1,3,1
+Sapphire,100382NTOC-2L,PCI-Express x16,Radeon R9 390,8GB,GDDR5,1.04Ghz,275 Watts,Yes,No,4-way CrossFire,12.13,Yes,1,1,3,1
+Asus,STRIX-GTX960-DC2OC-2GD5,PCI-Express x16,GeForce GTX 960,2GB,GDDR5,1.23Ghz,120 Watts,Yes,Yes,No,8.46,Yes,1,1,3,1
+EVGA,04G-P4-2978-KR,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.22Ghz,145 Watts,Yes,3-way SLI,No,9.49,Yes,1,1,1,1
+MSI,GTX 960 GAMING 2G,PCI-Express x16,GeForce GTX 960,2GB,GDDR5,1.22Ghz,120 Watts,Yes,Yes,No,10.51,Yes,1,1,3,1
+EVGA,06G-P4-4990-KR,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.0GHz,250 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+Gigabyte,GV-N970WF3OC-4GD,PCI-Express x16,GeForce GTX 970,4GB,GDDR5,1.11Ghz,145 Watts,Yes,3-way SLI,No,12.20,Yes,1,1,3,1
+Sapphire,100384NT4GOCL,PCI-Express x16,Radeon R9 380,4GB,GDDR5,985MHz,190 Watts,Yes,No,Yes,9.37,Yes,1,1,1,1
+Zotac,ZT-90505-10P,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.25Ghz,250 Watts,Yes,4-way SLI,No,12.95,Yes,1,1,3,1
+Gigabyte,GV-N960G1 GAMING-4GD,PCI-Express x16,GeForce GTX 960,4GB,GDDR5,1.24Ghz,120 Watts,Yes,Yes,No,11.61,Yes,1,1,3,1
+Asus,GTXTITANX-12GD5,PCI-Express x16,GeForce GTX Titan X,12GB,GDDR5,1.07Ghz,250 Watts,Yes,4-way SLI,No,10.51,Yes,1,1,3,1
+Gigabyte,GV-R939G1 GAMING-8GD,PCI-Express x16,Radeon R9 390,8GB,GDDR5,1.0GHz,275 Watts,Yes,No,4-way CrossFire,9.21,Yes,1,1,3,1
+EVGA,02G-P4-2962-KR,PCI-Express x16,GeForce GTX 960,2GB,GDDR5,1.22Ghz,120 Watts,Yes,Yes,No,6.81,Yes,1,1,1,1
+MSI,GTX 980Ti 6GD5T OC,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.10Ghz,250 Watts,Yes,4-way SLI,No,10.91,Yes,1,1,3,1
+EVGA,02G-P4-2957-KR,PCI-Express x16,GeForce GTX 950,2GB,GDDR5,1.19Ghz,90 Watts,Yes,Yes,No,10.12,Yes,1,1,3,1
+Gigabyte,GV-N98TWF3OC-6GD,PCI-Express x16,GeForce GTX 980 Ti,6GB,GDDR5,1.06Ghz,250 Watts,Yes,4-way SLI,No,11.02,Yes,1,1,3,1
+MSI,R9 380 2GD5T OC,PCI-Express x16,Radeon R9 380,2GB,GDDR5,980MHz,190 Watts,Yes,No,Yes,10.00,Yes,1,1,1,1
+Sapphire,100362SR,PCI-Express x16,Radeon R9 290,4GB,GDDR5,947MHz,250 Watts,Yes,No,4-way CrossFire,10.91,Yes,1,1,1,1

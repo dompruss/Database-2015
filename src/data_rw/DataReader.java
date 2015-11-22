@@ -32,7 +32,7 @@ public class DataReader {
         getAttributesAndData();
         printAttributes(attributes);
         trimData(data);
-        printData(data);
+        //printData(data);
         setDataWriter(component);
         //dw.writeData(attributes, data, numAttributes);
         System.out.println();
@@ -66,6 +66,11 @@ public class DataReader {
             case "harddrive":
                 DataWriter hdW = new HardDriveWriter(convertFileName(fileName), numAttributes);
                 hdW.writeData(attributes, data, numAttributes);
+                break;
+                
+            case "gpu":
+                DataWriter gpuW = new GpuWriter(convertFileName(fileName), numAttributes);
+                gpuW.writeData(attributes, data, numAttributes);
                 break;
 
             default:

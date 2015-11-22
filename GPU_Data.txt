@@ -61,6 +61,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -389,12 +394,17 @@
                           10.91&quot; (277mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
                     
                       <h4>DVI-D Dual-Link</h4>
+                        
+                          2
+
+
+                      <h4>DVI-I Dual-Link</h4>
                         
                           2
                         
@@ -471,6 +481,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -634,6 +649,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -713,6 +733,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -876,6 +901,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -952,7 +982,7 @@
                           10.55&quot; (268mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
@@ -1039,6 +1069,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1118,6 +1153,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1197,6 +1237,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1276,6 +1321,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1355,6 +1405,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1434,6 +1489,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1451,7 +1511,7 @@
                           1
 
 
-                      <h4>Manufacturer</h4>
+ <h4>Manufacturer</h4>
                         
                           EVGA
                         
@@ -1514,6 +1574,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1593,6 +1658,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1840,6 +1910,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1919,6 +1994,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -1998,6 +2078,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2074,7 +2159,7 @@
                           10.91&quot; (277mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
@@ -2082,6 +2167,11 @@
                       <h4>DVI-D Dual-Link</h4>
                         
                           2
+
+
+                      <h4>DVI-I Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DisplayPort</h4>
@@ -2156,6 +2246,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2316,12 +2411,17 @@
                           11.81&quot; (300mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
                     
                       <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+
+
+                      <h4>DVI-I Dual-Link</h4>
                         
                           1
                         
@@ -2398,6 +2498,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2474,7 +2579,7 @@
                           12.01&quot; (305mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
@@ -2558,7 +2663,7 @@
                           8.19&quot; (208mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
@@ -2645,6 +2750,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2724,6 +2834,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2803,6 +2918,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2882,6 +3002,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -2958,9 +3083,14 @@
                           12.13&quot; (308mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -3040,6 +3170,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -3203,6 +3338,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -3282,6 +3422,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -3442,7 +3587,7 @@
                           9.37&quot; (238mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
@@ -3529,6 +3674,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -3692,6 +3842,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -3768,12 +3923,17 @@
                           9.21&quot; (234mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
                     
                       <h4>DVI-D Dual-Link</h4>
+                        
+                          1
+
+
+                      <h4>DVI-I Dual-Link</h4>
                         
                           1
                         
@@ -3934,6 +4094,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -4013,6 +4178,11 @@
                       <h4>Supports G-Sync</h4>
                         
                           Yes
+
+
+                      <h4>DVI-D Dual-Link</h4>
+                        
+                          1
                         
                     
                       <h4>DVI-I Dual-Link</h4>
@@ -4173,7 +4343,7 @@
                           10.00&quot; (254mm)
                         
                     
-                      <h4>Supports Freesync</h4>
+                      <h4>Supports G-Sync</h4>
                         
                           Yes
                         
@@ -4255,6 +4425,11 @@
                       <h4>Length</h4>
                         
                           10.91&quot; (277mm)
+
+
+                      <h4>Supports G-Sync</h4>
+                        
+                          Yes
                         
                     
                       <h4>DVI-D Dual-Link</h4>

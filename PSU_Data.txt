@@ -1,6 +1,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CX600M
                         
                     
                       <h4>Part #</h4>
@@ -74,6 +79,11 @@
  <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CX500M
                         
                     
                       <h4>Part #</h4>
@@ -147,6 +157,11 @@
 <h4>Manufacturer</h4>
                         
                           EVGA
+
+
+                      <h4>Model</h4>
+                        
+                          100-W1
                         
                     
                       <h4>Part #</h4>
@@ -181,6 +196,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CX430M
                         
                     
                       <h4>Part #</h4>
@@ -215,6 +235,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CX750M
                         
                     
                       <h4>Part #</h4>
@@ -245,45 +270,6 @@
                       <h4>Efficiency Certification</h4>
                         
                           80+ Bronze
-
-<h4>Manufacturer</h4>
-                        
-                          EVGA
-                        
-                    
-                      <h4>Model</h4>
-                        
-                          SuperNOVA 850
-                        
-                    
-                      <h4>Part #</h4>
-                        
-                          220-G2-0850-XR
-                        
-                    
-                      <h4>Type</h4>
-                        
-                          ATX12V / EPS12V
-                        
-                    
-                      <h4>Wattage</h4>
-                        
-                          850 Watts
-                        
-                    
-                      <h4>Fans</h4>
-                        
-                          1
-                        
-                    
-                      <h4>Modular</h4>
-                        
-                          Full
-                        
-                    
-                      <h4>Efficiency Certification</h4>
-                        
-                          80+ Gold
 
 <h4>Manufacturer</h4>
                         
@@ -405,6 +391,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CX430
                         
                     
                       <h4>Part #</h4>
@@ -478,6 +469,11 @@
 <h4>Manufacturer</h4>
                         
                           EVGA
+
+
+                      <h4>Model</h4>
+                        
+                          100-W1-0430-KR
                         
                     
                       <h4>Part #</h4>
@@ -590,6 +586,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          RM750
                         
                     
                       <h4>Part #</h4>
@@ -623,46 +624,12 @@
 
 <h4>Manufacturer</h4>
                         
-                          EVGA
-                        
-                    
+                          Corsair
+
+
                       <h4>Model</h4>
                         
-                          SuperNOVA 750
-                        
-                    
-                      <h4>Part #</h4>
-                        
-                          110-B2-0750-VR
-                        
-                    
-                      <h4>Type</h4>
-                        
-                          ATX12V / EPS12V
-                        
-                    
-                      <h4>Wattage</h4>
-                        
-                          750 Watts
-                        
-                    
-                      <h4>Fans</h4>
-                        
-                          1
-                        
-                    
-                      <h4>Modular</h4>
-                        
-                          Semi
-                        
-                    
-                      <h4>Efficiency Certification</h4>
-                        
-                          80+ Bronze
-
-<h4>Manufacturer</h4>
-                        
-                          Corsair
+                          CX500
                         
                     
                       <h4>Part #</h4>
@@ -814,6 +781,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          AX760
                         
                     
                       <h4>Part #</h4>
@@ -848,6 +820,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          RM850
                         
                     
                       <h4>Part #</h4>
@@ -882,6 +859,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CS450M
                         
                     
                       <h4>Part #</h4>
@@ -916,6 +898,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          RM650
                         
                     
                       <h4>Part #</h4>
@@ -950,6 +937,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CX600
                         
                     
                       <h4>Part #</h4>
@@ -984,6 +976,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          RM1000
                         
                     
                       <h4>Part #</h4>
@@ -1096,6 +1093,11 @@
 <h4>Manufacturer</h4>
                         
                           Silverstone
+
+
+                      <h4>Model</h4>
+                        
+                          SST-SX500-LG
                         
                     
                       <h4>Part #</h4>
@@ -1130,6 +1132,11 @@
 <h4>Manufacturer</h4>
                         
                           XFX
+
+
+                      <h4>Model</h4>
+                        
+                          P1-550S
                         
                     
                       <h4>Part #</h4>
@@ -1164,6 +1171,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          AX1200i
                         
                     
                       <h4>Part #</h4>
@@ -1237,6 +1249,11 @@
 <h4>Manufacturer</h4>
                         
                           Logisys
+
+
+                      <h4>Model</h4>
+                        
+                          PS480
                         
                     
                       <h4>Part #</h4>
@@ -1263,9 +1280,19 @@
                         
                           No
 
+
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
+
 <h4>Manufacturer</h4>
                         
                           EVGA
+
+
+                      <h4>Model</h4>
+                        
+                          100-N1
                         
                     
                       <h4>Part #</h4>
@@ -1291,6 +1318,11 @@
                       <h4>Modular</h4>
                         
                           No
+
+
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Gold
 
 <h4>Manufacturer</h4>
                         
@@ -1412,6 +1444,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          CS550M
                         
                     
                       <h4>Part #</h4>
@@ -1446,6 +1483,11 @@
  <h4>Manufacturer</h4>
                         
                           Silverstone
+
+
+                      <h4>Model</h4>
+                        
+                          ST45SF-G
                         
                     
                       <h4>Part #</h4>
@@ -1519,6 +1561,11 @@
 <h4>Manufacturer</h4>
                         
                           Cooler Master
+
+
+                      <h4>Model</h4>
+                        
+                          RS550
                         
                     
                       <h4>Part #</h4>
@@ -1553,6 +1600,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          AX860i
                         
                     
                       <h4>Part #</h4>
@@ -1587,6 +1639,11 @@
 <h4>Manufacturer</h4>
                         
                           SeaSonic
+
+
+                      <h4>Model</h4>
+                        
+                          S12II 620 Bronze
                         
                     
                       <h4>Part #</h4>
@@ -1660,6 +1717,11 @@
 <h4>Manufacturer</h4>
                         
                           SeaSonic
+
+
+                      <h4>Model</h4>
+                        
+                          S12II 520 Bronze
                         
                     
                       <h4>Part #</h4>
@@ -1694,6 +1756,11 @@
 <h4>Manufacturer</h4>
                         
                           SeaSonic
+
+
+                      <h4>Model</h4>
+                        
+                          SSR-550RM
                         
                     
                       <h4>Part #</h4>
@@ -1728,6 +1795,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          AX860
                         
                     
                       <h4>Part #</h4>
@@ -1762,6 +1834,11 @@
 <h4>Manufacturer</h4>
                         
                           Cooler Master
+
+
+                      <h4>Model</h4>
+                        
+                          RS-650
                         
                     
                       <h4>Part #</h4>
@@ -1800,12 +1877,12 @@
                     
                       <h4>Model</h4>
                         
-                          SuperNOVA 850
+                          SuperNOVA 1250
                         
                     
                       <h4>Part #</h4>
                         
-                          110-B2-0850-V1
+                          110-B2-1250-V1
                         
                     
                       <h4>Type</h4>
@@ -1815,7 +1892,7 @@
                     
                       <h4>Wattage</h4>
                         
-                          850 Watts
+                          1250 Watts
                         
                     
                       <h4>Fans</h4>
@@ -1874,6 +1951,11 @@
 <h4>Manufacturer</h4>
                         
                           Corsair
+
+
+                      <h4>Model</h4>
+                        
+                          RM550
                         
                     
                       <h4>Part #</h4>
@@ -1908,6 +1990,11 @@
 <h4>Manufacturer</h4>
                         
                           Silverstone
+
+
+                      <h4>Model</h4>
+                        
+                          SST-ST30SF
                         
                     
                       <h4>Part #</h4>
@@ -1942,6 +2029,11 @@
 <h4>Manufacturer</h4>
                         
                           Thermaltake
+
+
+                      <h4>Model</h4>
+                        
+                          TR-500
                         
                     
                       <h4>Part #</h4>
@@ -1967,3 +2059,8 @@
                       <h4>Modular</h4>
                         
                           No
+
+
+                      <h4>Efficiency Certification</h4>
+                        
+                          80+ Bronze

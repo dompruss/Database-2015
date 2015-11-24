@@ -78,6 +78,11 @@ public class DataReader {
                 hsW.writeData(attributes, data, numAttributes);
                 hsW.writeSecondaryTables(attributes, data, hsW.heatSock, "HEATSINK_SOCKET.csv", 4, numAttributes, "", ", ");
                 break;
+                
+            case "psu":
+                DataWriter psuW = new PsuWriter(convertFileName(fileName), numAttributes);
+                psuW.writeData(attributes, data, numAttributes);
+                break;
 
             default:
                 System.out.println("Invalid file name");

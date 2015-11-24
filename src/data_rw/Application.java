@@ -22,12 +22,13 @@ public class Application {
         
        // DataWriter caseF = new CaseWriter();
         
-        //DataReader drCASE = new DataReader(caseFile, "case");
-        //DataReader drMOBO = new DataReader(moboFile, "mobo");
-        //DataReader drCPU = new DataReader(cpuFile, "cpu");
+        DataReader drCASE = new DataReader(caseFile, "case");
+        DataReader drMOBO = new DataReader(moboFile, "mobo");
+        DataReader drCPU = new DataReader(cpuFile, "cpu");
         //DataReader drRAM = new DataReader(ramFile, "ram");
-        //DataReader drHD = new DataReader(hardDriveFile, "harddrive");
-        //DataReader drGPU = new DataReader(gpuFile, "gpu");
+        DataReader drHD = new DataReader(hardDriveFile, "harddrive");
+        DataReader drGPU = new DataReader(gpuFile, "gpu");
         DataReader drHS = new DataReader(heatSinkFile, "heatsink");
+        DataReader drPSU = new DataReader(powerSupplyFile, "psu");
     }
 }

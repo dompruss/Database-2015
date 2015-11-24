@@ -21,21 +21,58 @@ public class RamWriter extends DataWriter {
     @Override
     public void writeData(ArrayList a, ArrayList d, int n) {
         try {
+
             for (int i = 0; i < a.size(); i++) {
                 if (i != a.size() - 1) {
                     bufferedWriter.write((String) a.get(i) + ",");
                 } else {
                     bufferedWriter.write((String) a.get(i));
                 }
+
             }
 
-            bufferedWriter.newLine();;
+            bufferedWriter.newLine();
+            int partMod = 2;
+            int ddrMod = 4;
+            int speedMod = 5;
+            int sizeMod = 6;
+            int voltMod = 8;
+
             for (int j = 0; j < d.size(); j++) {
-                if ((j + 1) % n == 0) {
-                    bufferedWriter.write((String) d.get(j));
-                    bufferedWriter.newLine();
+                if ((j + 1) % partMod == 0) {
+                    partMod += n;
+                    String info = (String) d.get(j);
+                    if (info.contains("<")) {
+                        info = info.substring(0, info.indexOf("<"));
+                    }
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % ddrMod == 0) {
+                    ddrMod += n;
+                    String info = (String) d.get(j);
+                    info = info.replaceAll("-\\d*", "");
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % speedMod == 0) {
+                    speedMod += n;
+                    String info = (String) d.get(j);
+                    info = info.replaceAll("\\w*\\d-", "");
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % sizeMod == 0) {
+                    sizeMod += n;
+                    String info = (String) d.get(j);
+                    info = info.substring(0, info.indexOf("G"));
+                    bufferedWriter.write(info + ",");
+                } else if ((j + 1) % voltMod == 0) {
+                    voltMod += n;
+                    String info = (String) d.get(j);
+                    info = info.substring(0, info.indexOf("V"));
+                    bufferedWriter.write(info + ",");
                 } else {
-                    bufferedWriter.write((String) d.get(j) + ",");
+                    if ((j + 1) % n == 0) {
+                        bufferedWriter.write((String) d.get(j));
+                        bufferedWriter.newLine();
+                    } else {
+                        bufferedWriter.write((String) d.get(j) + ",");
+                    }
                 }
 
             }

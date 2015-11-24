@@ -1,0 +1,2700 @@
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX4U3000W4G16-DGZ
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-3000
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-3000
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          16
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U1333GB2G8-2G
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (2 x 2GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          8
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.55V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U1600PB2G8-3P
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          6GB (3 x 2GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          8
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.55V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AD3U1333C4G9-DRH
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AXDU1333GW8G9-2G
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U1866GC4G9B-DG2
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+
+
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AXDU1333PC4G8-2P
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          8
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U1600W8G9-DB
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U2800W4G12-DMV
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2800
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2800
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U2133W8G10-DBV-RG
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          10
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX4U2133W8G13-DRZ
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          13
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          A-Data
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AX3U2400GW4G11-DG2
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2400
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2400
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AE34G1609U1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AE34G1339U2
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AP316G1869U2K
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R538G1601U2S
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (1 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R9316G2401U2K
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2400
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2400
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R938G2401U1K
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2400
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2400
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R334G1339U1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R534G1601U1-G
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          R938G2130U1K
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          10
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          AMD
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AG316G2130U1Q
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (4 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          10
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Apotop
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          U3A8Gx2-18C9AB
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Avexir
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          AVD3UH16000908G-2BZ1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Crucial
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          CT2K4G4RFS8213
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Crucial
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BLT4G3D1608DT1TX0
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          8
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Crucial
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BLE2K4G4D26AFEA
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2666
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2666
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          16
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Crucial
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          BLT4G3D1608DT2TXOB
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          8
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          GeIL
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GEV316GB2133C10ADC
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          10
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          GeIL
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GLW416GB3466C16QK
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-3600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-3600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (4 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          17
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          GeIL
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GLWW4128GB2400C14DQC
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2400
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2400
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          128GB (8 x 16GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          14
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          GeIL
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          GUP34GB2000C9DC
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-2000
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-2000
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (2 x 2GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          HP
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          647901-B21
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (1 x 16GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          IBM
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          00D4968
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (1 x 16GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Kingston
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          KTD-PE421/16G
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (1 x 16GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Kingston
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          KHX18C9T3K4/16X
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (4 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.65V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Kingston
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          KHX18C10T3K2/8
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          10
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Mushkin
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          996988F
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Mushkin
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          997183
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2133
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Mushkin
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          997137
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          13
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Panram
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PUD42400C158G4NJW
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2400
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2400
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (4 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Pareema
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          MD316D81610L1
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (1 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          10
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          No
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Patriot
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PSD34G16002H
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          4GB (1 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.7V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Patriot
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PG38G1333EL
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1333
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (1 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Patriot
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          PV48G266C5K
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2666
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2666
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          PNY
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          MD16384KD3-1866-X9
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          16GB (2 x 8GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          PNY
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          MD8GK2D4240015AB
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2400
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2400
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+<h4>Manufacturer</h4>
+                        
+                          Samsung
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          M386B4G70DM0-YK0
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1600
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          32GB (1 x 32GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          11
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.35V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          Yes
+
+<h4>Manufacturer</h4>
+                        
+                          Silicon Power
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          SP008GXLYU18ANDA
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          240-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR3-1866
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          9
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.5V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No
+
+
+<h4>Manufacturer</h4>
+                        
+                          Team
+                        
+                    
+                      <h4>Part #</h4>
+                        
+                          TDKED48G2666HC15ADC01
+                        
+                    
+                      <h4>Type</h4>
+                        
+                          288-pin DIMM
+
+
+                      <h4>DDRType</h4>
+                        
+                          DDR4-2800
+                        
+                    
+                      <h4>Speed</h4>
+                        
+                          DDR4-2800
+                        
+                    
+                      <h4>Size</h4>
+                        
+                          8GB (2 x 4GB)
+                        
+                    
+                      <h4>CAS</h4>
+                        
+                          15
+                        
+                    
+                      <h4>Voltage</h4>
+                        
+                          1.2V
+                        
+                    
+                      <h4>Heat Spreader</h4>
+                        
+                          Yes
+                        
+                    
+                      <h4>ECC</h4>
+                        
+                          No
+                        
+                    
+                      <h4>Registered</h4>
+                        
+                          No

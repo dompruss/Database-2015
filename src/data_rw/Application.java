@@ -25,7 +25,7 @@ public class Application {
         DataReader drCASE = new DataReader(caseFile, "case");
         DataReader drMOBO = new DataReader(moboFile, "mobo");
         DataReader drCPU = new DataReader(cpuFile, "cpu");
-        //DataReader drRAM = new DataReader(ramFile, "ram");
+        DataReader drRAM = new DataReader(ramFile, "ram");
         DataReader drHD = new DataReader(hardDriveFile, "harddrive");
         DataReader drGPU = new DataReader(gpuFile, "gpu");
         DataReader drHS = new DataReader(heatSinkFile, "heatsink");

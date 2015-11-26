@@ -56,12 +56,10 @@ public class QueryRunner {
 
         try {
             statement = conn.createStatement();
-            moboCompResultSet = statement
-                    .executeQuery(query);
+            moboCompResultSet = statement.executeQuery(query);
             ResultSetMetaData rsmd = moboCompResultSet.getMetaData();
 
             moboCompResultSet.next();
-            System.out.println(rsmd.getColumnCount());
 
             for (int i = 0; i < rsmd.getColumnCount(); i++) {
                 if (moboCompResultSet.getString(i + 1).equals("1")) {
@@ -93,9 +91,8 @@ public class QueryRunner {
             }
             
             String moboQuery = "select Manufacturer, PartNum from MOBO_TABLE where " + orString;
+            moboCompResultSet = statement.executeQuery(moboQuery);
             
-            System.out.println(moboQuery);
-
         } catch (SQLException ex) {
             System.out.println("Can't run query");
         }

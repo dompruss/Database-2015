@@ -20,7 +20,7 @@ public class Application {
         String ramFile = "RAM_Data.txt"; //remake data file
         String powerSupplyFile = "PSU_Data.txt"; 
         
-        String[] cases = new String[]{"Sample Case1", "Sample Case2"};
+        String[] cases = new String[]{"Sample Case1", "Sample Case2","3","4","5","6","7","8","9","10"};
         String[] mobos = new String[]{"Sample Mobo1", "Sample Mobo2"};
         String[] cpus = new String[]{"Sample CPU1", "Sample CPU2"};
         String[] gpus = new String[]{"Sample GPU1", "Sample GPU2"};
@@ -29,7 +29,10 @@ public class Application {
         String[] heatSinks = new String[]{"Sample HeatSink1", "Sample HeatSink2"};
         String[] rams = new String[]{"Sample Ram1", "Sample Ram2"};
         
-        Gui gui = new Gui(cases,mobos,cpus,gpus,powers,hardDrives,heatSinks,rams);
+        Connect con = new Connect();
+        QueryRunner qr = new QueryRunner(con.getConn());
+        Gui gui = new Gui(qr.getCases(),mobos,cpus,gpus,powers,hardDrives,heatSinks,rams);
+        con.closeConn();
         
         //DataReader drCASE = new DataReader(caseFile, "case");
         //DataReader drMOBO = new DataReader(moboFile, "mobo");

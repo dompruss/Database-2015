@@ -32,6 +32,7 @@ public class Application {
         Connect con = new Connect();
         QueryRunner qr = new QueryRunner(con.getConn());
         Gui gui = new Gui(qr.getCases(),mobos,cpus,gpus,powers,hardDrives,heatSinks,rams);
+        qr.getMobos("Antec", "DF-10");
         con.closeConn();
         
         //DataReader drCASE = new DataReader(caseFile, "case");

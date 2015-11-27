@@ -35,7 +35,7 @@ public class Application {
         //index of cases in array should match indexs of cases on drop down list
         qr.getMobos("Antec", "DF-10");
         con.closeConn();
-        
+        //blah blah
         //DataReader drCASE = new DataReader(caseFile, "case");
         //DataReader drMOBO = new DataReader(moboFile, "mobo");
         //DataReader drCPU = new DataReader(cpuFile, "cpu");

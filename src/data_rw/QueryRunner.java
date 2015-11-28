@@ -260,7 +260,7 @@ public class QueryRunner {
             ResultSet hdCompResultSet = statement.executeQuery(hdQuery);
 
             while (hdCompResultSet.next()) {
-                compHD[i] = hdCompResultSet.getString("Manufacturer") + " " + hdCompResultSet.getString("PartNum") + " " + hdCompResultSet.getString("Capacity");
+                compHD[i] = hdCompResultSet.getString("Manufacturer") + " " + hdCompResultSet.getString("PartNum") + " [" + hdCompResultSet.getString("Capacity") + "]";
                 i++;
             }
         } catch (SQLException ex) {

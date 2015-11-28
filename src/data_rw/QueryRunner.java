@@ -11,9 +11,6 @@ import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 /**
  *
  * @author Nick
@@ -24,12 +21,15 @@ public class QueryRunner {
     private Statement statement;
     private ResultSet caseResultSet;
     private ResultSet moboCompResultSet;
+    private ResultSet moboSpeedResultSet;
 
     protected String[] caseManu = new String[35];
     protected String[] caseMod = new String[35];
     protected String[] moboManu = new String[35];
     protected String[] moboPart = new String[35];
     protected String[] moboSocket = new String[35];
+    protected String[] moboMemSlot = new String[35];
+    protected String[] moboMemType = new String[35];
     protected String[] cpuSocket = new String[35];
     protected Double[] caseVidLen = new Double[35];
     
@@ -111,6 +111,8 @@ public class QueryRunner {
                 moboManu[i] = moboCompResultSet.getString("Manufacturer");
                 moboPart[i] = moboCompResultSet.getString("PartNum");
                 moboSocket[i] = moboCompResultSet.getString("CPUSocket");
+                moboMemSlot[i] = moboCompResultSet.getString("MemorySlots");
+                moboMemType[i] = moboCompResultSet.getString("MemoryType");
                 compMobos[i] = moboCompResultSet.getString("Manufacturer") + " " + moboCompResultSet.getString("PartNum");
                 i++;
             }
@@ -162,7 +164,6 @@ public class QueryRunner {
         int i = 0;
         try {
             String gpuQuery = "select * from GPU_TABLE where GPU_TABLE.Length <= " + vidL  + " limit 35";
-            //System.out.println(gpuQuery);
             ResultSet gpuCompResultSet = statement.executeQuery(gpuQuery);
             
             while (gpuCompResultSet.next()) {
@@ -175,8 +176,60 @@ public class QueryRunner {
         return compGpus;
     }
 
-    public void getRam() {
+    public String[] getRam(String moboManu, String moboPart, String ramType, String ramPin) {
+        ArrayList<String> moboCompSpeeds = new ArrayList<>();
+        String[] compRam = new String[35];
+        int i = 0;
 
+        String query = "SELECT S1066, S1333, S1600, S1800, S1866, S2000, S2133, S2200, S2400, S2500, S2600, S2666, S2800, S2933, S3000, S3100, S3200, S3300"
+                + " FROM MOBO_SPEED WHERE MOBO_SPEED.MOBOManufacturer = '"
+                + moboManu + "' AND " + "MOBO_SPEED.MOBOPartNum = '" + moboPart + "'";
+
+        try {
+            statement = conn.createStatement();
+            moboSpeedResultSet = statement.executeQuery(query);
+            ResultSetMetaData rsmd = moboSpeedResultSet.getMetaData();
+            
+            moboSpeedResultSet.next();
+
+            for (int j = 0; j < rsmd.getColumnCount(); j++) {
+                if(moboSpeedResultSet.getString(j + 1).equals("1")){
+                    moboCompSpeeds.add(rsmd.getColumnName(j + 1));
+                }
+            }
+            
+            String orString = "";
+            int size = moboCompSpeeds.size();
+            if (size > 1) {
+                for (int k = 0; k < size; k++) {
+                    String speed = moboCompSpeeds.get(k);
+                    speed = speed.replaceAll("S", "");
+                    if (k != size - 1) {
+                        orString += "RAM_TABLE.Speed = '" + speed + "'" + " or ";
+                    } else {
+                        orString += "RAM_TABLE.Speed = '" + speed + "'";
+                    }
+                }
+            }
+            else{
+                String speed = moboCompSpeeds.get(0);
+                speed = speed.replaceAll("S", "");
+                orString = "RAM_TABLE.Speed = '" + speed + "'";
+            }
+            
+            System.out.println(orString);
+            String ramQuery = "select * from RAM_TABLE where (" + orString + ")" + " AND " + "RAM_TABLE.DDRType = '" + ramType + "'" + " AND " + "RAM_TABLE.Type = '" + ramPin + "' limit 35";
+            moboSpeedResultSet = statement.executeQuery(ramQuery);
+            
+            while (moboSpeedResultSet.next()) {
+                compRam[i] = moboSpeedResultSet.getString("Manufacturer") + " " + moboSpeedResultSet.getString("PartNum");
+                i++;
+            }
+            
+        } catch (SQLException ex) {
+            System.out.println("Can't run query");
+        }
+        return compRam;
     }
 
     public void getPsus() {
@@ -187,7 +240,14 @@ public class QueryRunner {
 
     }
     
-    public void printArray(String[] a) {
+    public void printArray(ArrayList a) {
+        for (Object a1 : a) {
+
+            System.out.print(a1 + ", ");
+        }
+    }
+    
+    public void printString(String[] a) {
         for (Object a1 : a) {
 
             System.out.print(a1 + ", ");

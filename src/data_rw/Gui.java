@@ -112,6 +112,7 @@ ArrayList<String> moboCompForms = new ArrayList<>();
             int selMobo =  cb.getSelectedIndex();
             updateCPUS(qr.getCpus(qr.moboSocket[selMobo])); 
             updateGPUS(qr.getGpus(qr.caseVidLen[selMobo]));
+            updateRAM(qr.getRam(qr.moboManu[selMobo], qr.moboPart[selMobo], qr.moboMemType[selMobo], qr.moboMemSlot[selMobo]));
         } 
         
         if (cb == cpuCombo) {

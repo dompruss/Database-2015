@@ -23,32 +23,40 @@ public class QueryRunner {
     private ResultSet caseResultSet;
     private ResultSet moboCompResultSet;
 
-    //private String[] caseInfo = new String[25];
+    protected String[] caseManu = new String[35];
+    protected String[] caseMod = new String[35];
+    protected Double[] caseVidLen = new Double[35];
+    
     public QueryRunner(Connection c) {
         conn = c;
     }
 
     public String[] getCases() {
-        String[] caseInfo = new String[25];
+        String[] cases = new String[35];
         try {
             int i = 0;
             statement = conn.createStatement();
             caseResultSet = statement
-                    .executeQuery("select Manufacturer, Model from CASE_TABLE limit 25");
-
+                    .executeQuery("select * from CASE_TABLE limit 35");
+            
             while (caseResultSet.next()) {
-                caseInfo[i] = caseResultSet.getNString(1) + " " + caseResultSet.getNString(2);
+                caseManu[i] = caseResultSet.getString("Manufacturer");
+                caseMod[i] = caseResultSet.getString("Model");
+                caseVidLen[i] = caseResultSet.getDouble("MaximumVideoCardLength");
+                cases[i] = caseResultSet.getNString(1) + " " + caseResultSet.getNString(2);
                 i++;
             }
 
         } catch (SQLException ex) {
             System.out.println("Can't run query");
         }
-        return caseInfo;
+        return cases;
     }
 
-    public void getMobos(String caseManu, String caseMod) {
-        ArrayList<String> moboCompForms = new ArrayList<String>();
+    public String[] getMobos(String caseManu, String caseMod) {
+        ArrayList<String> moboCompForms = new ArrayList<>();
+        String[] compMobos = new String[35];
+        int i = 0;
 
         String query = "SELECT AT, ATX, EATX, EEATX, Flex_ATX, HPTX, Micro_ATX, Mini_ITX, SSI_CEB, SSI_EEB, Thin_Mini_ITX, XL_ATX"
                 + " FROM CASE_MOBO_COMP WHERE CASE_MOBO_COMP.CASEManufacturer = '"
@@ -61,21 +69,21 @@ public class QueryRunner {
 
             moboCompResultSet.next();
 
-            for (int i = 0; i < rsmd.getColumnCount(); i++) {
-                if (moboCompResultSet.getString(i + 1).equals("1")) {
-                    moboCompForms.add(rsmd.getColumnName(i + 1));
+            for (int j = 0; j < rsmd.getColumnCount(); j++) {
+                if (moboCompResultSet.getString(j + 1).equals("1")) {
+                    moboCompForms.add(rsmd.getColumnName(j + 1));
                 }
             }
             
             String orString = "";
             int size = moboCompForms.size();
             if (size > 1) {
-                for (int i = 0; i < size; i++) {
-                    String form = moboCompForms.get(i);
+                for (int k = 0; k < size; k++) {
+                    String form = moboCompForms.get(k);
                         if(form.contains("_")){
                             form = form.replaceAll("_", " ");
                         }
-                    if (i != size - 1) {
+                    if (k != size - 1) {
                         orString += "MOBO_TABLE.FormFactor = '" + form + "'" + " or ";
                     } else {
                         orString += "MOBO_TABLE.FormFactor = '" + form + "'";
@@ -90,15 +98,21 @@ public class QueryRunner {
                 orString = "MOBO_TABLE.FormFactor = '" + form + "'";
             }
             
-            String moboQuery = "select Manufacturer, PartNum from MOBO_TABLE where " + orString;
+            String moboQuery = "select Manufacturer, PartNum from MOBO_TABLE where " + orString + " limit 35";
             moboCompResultSet = statement.executeQuery(moboQuery);
+            
+            while (moboCompResultSet.next()) {
+                compMobos[i] = moboCompResultSet.getString("Manufacturer") + " " + moboCompResultSet.getString("PartNum");
+                i++;
+            }
             
         } catch (SQLException ex) {
             System.out.println("Can't run query");
         }
+        return compMobos;
     }
 
-    public void printArray(ArrayList a) {
+    public void printArray(String[] a) {
         for (Object a1 : a) {
 
             System.out.print(a1 + ", ");

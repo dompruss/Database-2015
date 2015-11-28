@@ -17,9 +17,6 @@ import javax.sql.*;
 public class Connect {
     
     private Connection conn;
-    //private Statement statement;
-    //private ResultSet resultSet;
-    //private String[] caseInfo = new String[25];
 
     public Connect() {
         
@@ -32,33 +29,8 @@ public class Connect {
             System.out.println("Database connection established");
         } catch (Exception e) {
             e.printStackTrace();
-
-//        } finally {
-//            if (conn != null) {
-//                try {
-//                    conn.close();
-//                    System.out.println("Database connection terminated");
-//                } catch (Exception e) { /* ignore close errors */ }
-//            }
         }
     }
-    
-//    public void getCases(){
-//        try {
-//            int i = 0;
-//            statement = conn.createStatement();
-//            resultSet = statement
-//                    .executeQuery("select * from CASE_TABLE limit 25");
-//            
-//            while(resultSet.next()){
-//                caseInfo[i] = resultSet.getNString(1) + " " + resultSet.getNString(2);
-//                i++;
-//            }
-//            
-//        } catch (SQLException ex) {
-//            System.out.println("Can't run query");
-//        }
-//    }
     
     public void closeConn(){
         try {
@@ -72,10 +44,6 @@ public class Connect {
     public Connection getConn(){
         return conn;
     }
-    
-//    public String[] getCaseInfo(){
-//        return caseInfo;
-//    }
     
     public void printArray(String[] array){
         for(int i = 0; i < array.length; i++){

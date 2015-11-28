@@ -5,6 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+import java.util.ArrayList;
 import javax.swing.*;
 
 public class Gui implements ActionListener {
@@ -12,15 +13,16 @@ public class Gui implements ActionListener {
     JFrame guiFrame = new JFrame(); // Frame for holding our JPanes
 
     final JPanel guiPanel = new JPanel();   // Panel for holding our Combo Boxes    
-
-    String[] cases = new String[25];      // current compatible Cases
-    String[] mobos = new String[25];      // current compatible Mother Boards
-    String[] cpus = new String[25];       // current compatible Central Processing Units
-    String[] gpus = new String[25];       // current compatible Graphics Processing Units
-    String[] psus = new String[25];       // current compatible Power Supplies
-    String[] hardDrives = new String[25]; // current compatible Hard Drives
-    String[] heatSinks = new String[25];  // current compatible Heat Sinks
-    String[] rams = new String[25];       // current compatible Random Access Memory
+    
+ArrayList<String> moboCompForms = new ArrayList<>();
+    String[] cases = new String[35];      // current compatible Cases
+    String[] mobos = new String[35];      // current compatible Mother Boards
+    String[] cpus = new String[35];       // current compatible Central Processing Units
+    String[] gpus = new String[35];       // current compatible Graphics Processing Units
+    String[] psus = new String[35];       // current compatible Power Supplies
+    String[] hardDrives = new String[35]; // current compatible Hard Drives
+    String[] heatSinks = new String[35];  // current compatible Heat Sinks
+    String[] rams = new String[35];       // current compatible Random Access Memory
 
     JLabel caseLabel = new JLabel("Cases:");
     JLabel moboLabel = new JLabel("Mother Boards:");
@@ -39,8 +41,11 @@ public class Gui implements ActionListener {
     JComboBox hardCombo;
     JComboBox heatCombo;
     JComboBox ramCombo;
+    
+    QueryRunner qr;
 
-    public Gui() {
+    public Gui(QueryRunner inQr) {
+        qr = inQr;
         guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         guiFrame.setTitle("Computer Compatability Database");
         guiFrame.setSize(250, 500);
@@ -98,8 +103,8 @@ public class Gui implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         JComboBox cb = (JComboBox) e.getSource();
         if (cb == caseCombo) {
-            String caseName = (String) cb.getSelectedItem();
-            System.out.println(caseName);
+            int selCase =  cb.getSelectedIndex();
+            updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
         }     
     }
 

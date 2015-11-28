@@ -11,6 +11,8 @@ import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
@@ -25,6 +27,10 @@ public class QueryRunner {
 
     protected String[] caseManu = new String[35];
     protected String[] caseMod = new String[35];
+    protected String[] moboManu = new String[35];
+    protected String[] moboPart = new String[35];
+    protected String[] moboSocket = new String[35];
+    protected String[] cpuSocket = new String[35];
     protected Double[] caseVidLen = new Double[35];
     
     public QueryRunner(Connection c) {
@@ -98,10 +104,13 @@ public class QueryRunner {
                 orString = "MOBO_TABLE.FormFactor = '" + form + "'";
             }
             
-            String moboQuery = "select Manufacturer, PartNum from MOBO_TABLE where " + orString + " limit 35";
+            String moboQuery = "select * from MOBO_TABLE where " + orString + " limit 35";
             moboCompResultSet = statement.executeQuery(moboQuery);
             
             while (moboCompResultSet.next()) {
+                moboManu[i] = moboCompResultSet.getString("Manufacturer");
+                moboPart[i] = moboCompResultSet.getString("PartNum");
+                moboSocket[i] = moboCompResultSet.getString("CPUSocket");
                 compMobos[i] = moboCompResultSet.getString("Manufacturer") + " " + moboCompResultSet.getString("PartNum");
                 i++;
             }
@@ -112,23 +121,58 @@ public class QueryRunner {
         return compMobos;
     }
 
-    public void printArray(String[] a) {
-        for (Object a1 : a) {
-
-            System.out.print(a1 + ", ");
+    public String[] getCpus(String moboSocket) {
+        String[] compCpus = new String[35];
+        int i = 0;
+        try {
+            String cpuQuery = "select * from CPU_TABLE where CPU_TABLE.Socket = '" + moboSocket+ "' " + "limit 35";
+            ResultSet cpuCompResultSet = statement.executeQuery(cpuQuery);
+            
+            while (cpuCompResultSet.next()) {
+                cpuSocket[i] = cpuCompResultSet.getString("Socket");
+                compCpus[i] = cpuCompResultSet.getString("Manufacturer") + " " + cpuCompResultSet.getString("Model");
+                i++;
+            }
+        } catch (SQLException ex) {
+            System.out.println("Can't run query");
         }
+        return compCpus;
     }
 
-    public void getCpus() {
-
+    public String[] getHeatSinks(String cpuSock) {
+        String[] compHS = new String[35];
+        int i = 0;
+        cpuSock = cpuSock.replaceAll(" ", "");
+        try {
+            String hsQuery = "select * from HEAT_SINK_SOCKET where HEAT_SINK_SOCKET." + cpuSock + " = 1 " + "limit 35";
+            ResultSet cpuCompResultSet = statement.executeQuery(hsQuery);
+            
+            while (cpuCompResultSet.next()) {
+                compHS[i] = cpuCompResultSet.getString("HEATSINKManufacturer") + " " + cpuCompResultSet.getString("HEATSINKModel");
+                i++;
+            }
+        } catch (SQLException ex) {
+            System.out.println("Can't run query");
+        }
+        return compHS;
     }
 
-    public void getHeatSinks() {
-
-    }
-
-    public void getGpus() {
-
+    public String[] getGpus(Double vidL) {
+        String[] compGpus = new String[35];
+        int i = 0;
+        try {
+            String gpuQuery = "select * from GPU_TABLE where GPU_TABLE.Length <= " + vidL  + " limit 35";
+            //System.out.println(gpuQuery);
+            ResultSet gpuCompResultSet = statement.executeQuery(gpuQuery);
+            
+            while (gpuCompResultSet.next()) {
+                compGpus[i] = gpuCompResultSet.getString("Manufacturer") + " " + gpuCompResultSet.getString("PartNum");
+                i++;
+            }
+        } catch (SQLException ex) {
+            System.out.println("Can't run query");
+        }
+        return compGpus;
     }
 
     public void getRam() {
@@ -141,6 +185,13 @@ public class QueryRunner {
 
     public void getHardDrives() {
 
+    }
+    
+    public void printArray(String[] a) {
+        for (Object a1 : a) {
+
+            System.out.print(a1 + ", ");
+        }
     }
 
 }

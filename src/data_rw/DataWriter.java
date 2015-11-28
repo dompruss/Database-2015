@@ -86,12 +86,12 @@ public class DataWriter {
             this.bufferedWriter = new BufferedWriter(fileWriter);
             int backTrack = startMod;
             int modValue = startMod;
+            int partMod = 2;
             String header = fileName.substring(0, fileName.indexOf("_"));
-//            String noSpaces = (String) a.get(0);
-//                noSpaces = noSpaces.replaceAll("\\s", "");
             bufferedWriter.write(header + (String) a.get(0) + "," + header + (String) a.get(1) + "," + convertToString(list));
             bufferedWriter.newLine();
             for (int j = 0; j < d.size(); j++) {
+                
                 if ((j + 1) % modValue == 0) {
                     modValue += n;
                     String data = (String) d.get(j);
@@ -107,7 +107,12 @@ public class DataWriter {
                             matches[k] = "0";
                         }
                     }
-                    bufferedWriter.write((String) d.get(j - (backTrack - 1)) + "," + (String) d.get(j - (backTrack - 2)) + "," + convertToString(matches));
+                    String manu = (String) d.get(j - (backTrack - 1));
+                    String pnum = (String) d.get(j - (backTrack - 2));
+                    if(pnum.contains("<")){
+                        pnum = pnum.substring(0,pnum.indexOf("<"));
+                    }
+                    bufferedWriter.write(manu + "," + pnum + "," + convertToString(matches));
                     bufferedWriter.newLine();
                 }
             }

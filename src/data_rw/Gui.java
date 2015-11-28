@@ -62,6 +62,7 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         moboCombo = new JComboBox(mobos);
         moboCombo.addActionListener(this);
         cpuCombo = new JComboBox(cpus);
+        cpuCombo.addActionListener(this);
         gpuCombo = new JComboBox(gpus);
         powerCombo = new JComboBox(psus);
         hardCombo = new JComboBox(hardDrives);
@@ -105,7 +106,18 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         if (cb == caseCombo) {
             int selCase =  cb.getSelectedIndex();
             updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
-        }     
+        } 
+        
+        if (cb == moboCombo) {
+            int selMobo =  cb.getSelectedIndex();
+            updateCPUS(qr.getCpus(qr.moboSocket[selMobo])); 
+            updateGPUS(qr.getGpus(qr.caseVidLen[selMobo]));
+        } 
+        
+        if (cb == cpuCombo) {
+            int selCpu =  cb.getSelectedIndex();
+            updateHeatSink(qr.getHeatSinks(qr.cpuSocket[selCpu]));
+        } 
     }
 
     public void updateCases(String[] newCases) {

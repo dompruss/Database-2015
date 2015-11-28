@@ -11,6 +11,7 @@ import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+
 /**
  *
  * @author Nick
@@ -30,9 +31,10 @@ public class QueryRunner {
     protected String[] moboSocket = new String[35];
     protected String[] moboMemSlot = new String[35];
     protected String[] moboMemType = new String[35];
+    protected String[] moboForm = new String[35];
     protected String[] cpuSocket = new String[35];
     protected Double[] caseVidLen = new Double[35];
-    
+
     public QueryRunner(Connection c) {
         conn = c;
     }
@@ -44,7 +46,7 @@ public class QueryRunner {
             statement = conn.createStatement();
             caseResultSet = statement
                     .executeQuery("select * from CASE_TABLE limit 35");
-            
+
             while (caseResultSet.next()) {
                 caseManu[i] = caseResultSet.getString("Manufacturer");
                 caseMod[i] = caseResultSet.getString("Model");
@@ -80,43 +82,43 @@ public class QueryRunner {
                     moboCompForms.add(rsmd.getColumnName(j + 1));
                 }
             }
-            
+
             String orString = "";
             int size = moboCompForms.size();
             if (size > 1) {
                 for (int k = 0; k < size; k++) {
                     String form = moboCompForms.get(k);
-                        if(form.contains("_")){
-                            form = form.replaceAll("_", " ");
-                        }
+                    if (form.contains("_")) {
+                        form = form.replaceAll("_", " ");
+                    }
                     if (k != size - 1) {
                         orString += "MOBO_TABLE.FormFactor = '" + form + "'" + " or ";
                     } else {
                         orString += "MOBO_TABLE.FormFactor = '" + form + "'";
                     }
                 }
-            }
-            else{
+            } else {
                 String form = moboCompForms.get(1);
-                        if(form.contains("_")){
-                            form = form.replaceAll("_", " ");
-                        }
+                if (form.contains("_")) {
+                    form = form.replaceAll("_", " ");
+                }
                 orString = "MOBO_TABLE.FormFactor = '" + form + "'";
             }
-            
+
             String moboQuery = "select * from MOBO_TABLE where " + orString + " limit 35";
             moboCompResultSet = statement.executeQuery(moboQuery);
-            
+
             while (moboCompResultSet.next()) {
                 moboManu[i] = moboCompResultSet.getString("Manufacturer");
                 moboPart[i] = moboCompResultSet.getString("PartNum");
                 moboSocket[i] = moboCompResultSet.getString("CPUSocket");
                 moboMemSlot[i] = moboCompResultSet.getString("MemorySlots");
                 moboMemType[i] = moboCompResultSet.getString("MemoryType");
+                moboForm[i] = moboCompResultSet.getString("FormFactor");
                 compMobos[i] = moboCompResultSet.getString("Manufacturer") + " " + moboCompResultSet.getString("PartNum");
                 i++;
             }
-            
+
         } catch (SQLException ex) {
             System.out.println("Can't run query");
         }
@@ -127,9 +129,9 @@ public class QueryRunner {
         String[] compCpus = new String[35];
         int i = 0;
         try {
-            String cpuQuery = "select * from CPU_TABLE where CPU_TABLE.Socket = '" + moboSocket+ "' " + "limit 35";
+            String cpuQuery = "select * from CPU_TABLE where CPU_TABLE.Socket = '" + moboSocket + "' " + "limit 35";
             ResultSet cpuCompResultSet = statement.executeQuery(cpuQuery);
-            
+
             while (cpuCompResultSet.next()) {
                 cpuSocket[i] = cpuCompResultSet.getString("Socket");
                 compCpus[i] = cpuCompResultSet.getString("Manufacturer") + " " + cpuCompResultSet.getString("Model");
@@ -148,7 +150,7 @@ public class QueryRunner {
         try {
             String hsQuery = "select * from HEAT_SINK_SOCKET where HEAT_SINK_SOCKET." + cpuSock + " = 1 " + "limit 35";
             ResultSet cpuCompResultSet = statement.executeQuery(hsQuery);
-            
+
             while (cpuCompResultSet.next()) {
                 compHS[i] = cpuCompResultSet.getString("HEATSINKManufacturer") + " " + cpuCompResultSet.getString("HEATSINKModel");
                 i++;
@@ -163,9 +165,9 @@ public class QueryRunner {
         String[] compGpus = new String[35];
         int i = 0;
         try {
-            String gpuQuery = "select * from GPU_TABLE where GPU_TABLE.Length <= " + vidL  + " limit 35";
+            String gpuQuery = "select * from GPU_TABLE where GPU_TABLE.Length <= " + vidL + " limit 35";
             ResultSet gpuCompResultSet = statement.executeQuery(gpuQuery);
-            
+
             while (gpuCompResultSet.next()) {
                 compGpus[i] = gpuCompResultSet.getString("Manufacturer") + " " + gpuCompResultSet.getString("PartNum");
                 i++;
@@ -189,15 +191,15 @@ public class QueryRunner {
             statement = conn.createStatement();
             moboSpeedResultSet = statement.executeQuery(query);
             ResultSetMetaData rsmd = moboSpeedResultSet.getMetaData();
-            
+
             moboSpeedResultSet.next();
 
             for (int j = 0; j < rsmd.getColumnCount(); j++) {
-                if(moboSpeedResultSet.getString(j + 1).equals("1")){
+                if (moboSpeedResultSet.getString(j + 1).equals("1")) {
                     moboCompSpeeds.add(rsmd.getColumnName(j + 1));
                 }
             }
-            
+
             String orString = "";
             int size = moboCompSpeeds.size();
             if (size > 1) {
@@ -210,43 +212,70 @@ public class QueryRunner {
                         orString += "RAM_TABLE.Speed = '" + speed + "'";
                     }
                 }
-            }
-            else{
+            } else {
                 String speed = moboCompSpeeds.get(0);
                 speed = speed.replaceAll("S", "");
                 orString = "RAM_TABLE.Speed = '" + speed + "'";
             }
-            
-            System.out.println(orString);
+
             String ramQuery = "select * from RAM_TABLE where (" + orString + ")" + " AND " + "RAM_TABLE.DDRType = '" + ramType + "'" + " AND " + "RAM_TABLE.Type = '" + ramPin + "' limit 35";
             moboSpeedResultSet = statement.executeQuery(ramQuery);
-            
+
             while (moboSpeedResultSet.next()) {
                 compRam[i] = moboSpeedResultSet.getString("Manufacturer") + " " + moboSpeedResultSet.getString("PartNum");
                 i++;
             }
-            
+
         } catch (SQLException ex) {
             System.out.println("Can't run query");
         }
         return compRam;
     }
 
-    public void getPsus() {
+    public String[] getPsus(String moboForm) {
+        String[] compPS = new String[35];
+        int i = 0;
+        try {
+            if (moboForm.contains(" ")) {
+                moboForm = "ATX";
+            } 
+            String psQuery = "select * from PSU_TABLE where PSU_TABLE.Type = '" + moboForm + "' OR PSU_TABLE.Type = 'ATX12V' limit 35";
+            ResultSet psCompResultSet = statement.executeQuery(psQuery);
 
+            while (psCompResultSet.next()) {
+                compPS[i] = psCompResultSet.getString("Manufacturer") + " " + psCompResultSet.getString("Model");
+                i++;
+            }
+        } catch (SQLException ex) {
+            System.out.println("Can't run query");
+        }
+        return compPS;
     }
 
-    public void getHardDrives() {
+    public String[] getHardDrives() {
+        String[] compHD = new String[35];
+        int i = 0;
+        try {
+            String hdQuery = "select * from HARD_DRIVE limit 35";
+            ResultSet hdCompResultSet = statement.executeQuery(hdQuery);
 
+            while (hdCompResultSet.next()) {
+                compHD[i] = hdCompResultSet.getString("Manufacturer") + " " + hdCompResultSet.getString("PartNum") + " " + hdCompResultSet.getString("Capacity");
+                i++;
+            }
+        } catch (SQLException ex) {
+            System.out.println("Can't run query");
+        }
+        return compHD;
     }
-    
+
     public void printArray(ArrayList a) {
         for (Object a1 : a) {
 
             System.out.print(a1 + ", ");
         }
     }
-    
+
     public void printString(String[] a) {
         for (Object a1 : a) {
 

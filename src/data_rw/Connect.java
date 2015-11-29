@@ -23,7 +23,7 @@ public class Connect {
 
         try {
 
-            String url = "jdbc:mysql://csci440.cs.montana.edu:3306/mooren";
+            String url = "jdbc:mysql://csci440.cs.montana.edu:3306/pruss";
             Class.forName("com.mysql.jdbc.Driver");
             conn = DriverManager.getConnection(url, "pruss", "t3gpfbwv9a");
             //System.out.println("Database connection established");

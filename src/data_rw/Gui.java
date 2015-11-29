@@ -7,12 +7,18 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.util.ArrayList;
 import javax.swing.*;
+import java.awt.GridLayout;
+import java.awt.Color;
+import javax.swing.border.LineBorder;
 
 public class Gui implements ActionListener {
 
     JFrame guiFrame = new JFrame(); // Frame for holding our JPanes
+    GridLayout layout = new GridLayout(1, 2);
+    
 
-    final JPanel guiPanel = new JPanel();   // Panel for holding our Combo Boxes    
+    final JPanel gamePanel = new JPanel();   // Panel for holding our Combo Boxes 
+    final JPanel playerPanel = new JPanel();
     
 ArrayList<String> moboCompForms = new ArrayList<>();
     String[] cases = new String[35];      // current compatible Cases
@@ -24,23 +30,23 @@ ArrayList<String> moboCompForms = new ArrayList<>();
     String[] heatSinks = new String[35];  // current compatible Heat Sinks
     String[] rams = new String[35];       // current compatible Random Access Memory
 
-    JLabel caseLabel = new JLabel("Cases:");
-    JLabel moboLabel = new JLabel("Mother Boards:");
-    JLabel cpuLabel = new JLabel("CPU:");
-    JLabel gpuLabel = new JLabel("GPU:");
-    JLabel powerLabel = new JLabel("Power Supply:");
-    JLabel hardDriveLabel = new JLabel("Hard Drive:");
-    JLabel heatSinkLabel = new JLabel("Heat Sink:");
-    JLabel ramLabel = new JLabel("RAM:");
+    JLabel positionLabel = new JLabel("Position:");
+    JLabel clubLabel = new JLabel("Club:");
+    JLabel playerLabel = new JLabel("Player:");
+    JLabel seasonLabel = new JLabel("Season:");
+    JLabel weekLabel = new JLabel("Week:");
+    JLabel gameLabel = new JLabel("Game:");
+    
+    JTextArea playerInfo;
+    JTextArea gameInfo;
 
-    JComboBox caseCombo;
-    JComboBox moboCombo;
-    JComboBox cpuCombo;
-    JComboBox gpuCombo;
-    JComboBox powerCombo;
-    JComboBox hardCombo;
-    JComboBox heatCombo;
-    JComboBox ramCombo;
+    JComboBox positionCombo;
+    JComboBox clubCombo;
+    JComboBox playerCombo;
+    JComboBox seasonCombo;
+    JComboBox weekCombo;
+    JComboBox gameCombo;
+
     
     QueryRunner qr;
 
@@ -48,67 +54,74 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         qr = inQr;
         guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         guiFrame.setTitle("Fantastic Fantasy Premier League App");
-        guiFrame.setSize(250, 500);
+        guiFrame.setSize(500, 250);
         guiFrame.setLocationRelativeTo(null);   // centers gui
-        guiPanel.setLayout(new BoxLayout(guiPanel, BoxLayout.PAGE_AXIS));
-
+        gamePanel.setLayout(new BoxLayout(gamePanel, BoxLayout.PAGE_AXIS));
+        playerPanel.setLayout(new BoxLayout(playerPanel, BoxLayout.PAGE_AXIS));
         initializeComboBoxes();
         initializeJPane();
     }
 
     private void initializeComboBoxes() {
-        caseCombo = new JComboBox(cases);
-        caseCombo.addActionListener(this);
-        moboCombo = new JComboBox(mobos);
-        moboCombo.addActionListener(this);
-        cpuCombo = new JComboBox(cpus);
-        cpuCombo.addActionListener(this);
-        gpuCombo = new JComboBox(gpus);
-        powerCombo = new JComboBox(psus);
-        hardCombo = new JComboBox(hardDrives);
-        heatCombo = new JComboBox(heatSinks);
-        ramCombo = new JComboBox(rams);
+        positionCombo = new JComboBox(cases);
+        positionCombo.addActionListener(this);
+        clubCombo = new JComboBox(mobos);
+        clubCombo.addActionListener(this);
+        playerCombo = new JComboBox(cpus);
+        playerCombo.addActionListener(this);
+        seasonCombo = new JComboBox(gpus);
+        seasonCombo = new JComboBox(psus);
+        weekCombo = new JComboBox(hardDrives);
+        weekCombo = new JComboBox(heatSinks);
+        gameCombo = new JComboBox(rams);
     }
 
     private void initializeJPane() {
-        guiPanel.add(caseLabel);
-        guiPanel.add(caseCombo);
+        playerPanel.add(positionLabel);
+        playerPanel.add(positionCombo);
 
-        guiPanel.add(moboLabel);
-        guiPanel.add(moboCombo);
+        playerPanel.add(clubLabel);
+        playerPanel.add(clubCombo);
 
-        guiPanel.add(cpuLabel);
-        guiPanel.add(cpuCombo);
+        playerPanel.add(playerLabel);
+        playerPanel.add(playerCombo);
+        
+        playerInfo = new JTextArea(5,15);
+        playerPanel.add(playerInfo);
 
-        guiPanel.add(gpuLabel);
-        guiPanel.add(gpuCombo);
+        gamePanel.add(seasonLabel);
+        gamePanel.add(seasonCombo);
 
-        guiPanel.add(powerLabel);
-        guiPanel.add(powerCombo);
+        gamePanel.add(weekLabel);
+        gamePanel.add(weekCombo);
+        
+        gamePanel.add(gameLabel);
+        gamePanel.add(gameCombo);
 
-        guiPanel.add(hardDriveLabel);
-        guiPanel.add(hardCombo);
-
-        guiPanel.add(heatSinkLabel);
-        guiPanel.add(heatCombo);
-
-        guiPanel.add(ramLabel);
-        guiPanel.add(ramCombo);
-
-        guiPanel.setVisible(true);
-        guiFrame.add(guiPanel);
+        gameInfo = new JTextArea(5,15);
+        gamePanel.add(gameInfo);
+        
+        gamePanel.setVisible(true);
+        playerPanel.setVisible(true);
+        guiFrame.setLayout(layout);
+        guiFrame.add(gamePanel);
+        guiFrame.add(playerPanel);
         guiFrame.setVisible(true);
+        gamePanel.setBackground(Color.decode("#007fff"));   
+        playerPanel.setBackground(Color.decode("#007fff"));
+        playerPanel.setBorder(new LineBorder(Color.black, 5));
+        gamePanel.setBorder(new LineBorder(Color.black, 5));
+        
     }
-
     @Override
     public void actionPerformed(ActionEvent e) {
         JComboBox cb = (JComboBox) e.getSource();
-        if (cb == caseCombo) {
+        if (cb == positionCombo) {
             int selCase =  cb.getSelectedIndex();
             updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
         } 
         
-        if (cb == moboCombo) {
+        if (cb == clubCombo) {
             int selMobo =  cb.getSelectedIndex();
             updateCPUS(qr.getCpus(qr.moboSocket[selMobo])); 
             updateGPUS(qr.getGpus(qr.caseVidLen[selMobo]));
@@ -117,7 +130,7 @@ ArrayList<String> moboCompForms = new ArrayList<>();
             updateHardDrive(qr.getHardDrives());
         } 
         
-        if (cb == cpuCombo) {
+        if (cb == playerCombo) {
             int selCpu =  cb.getSelectedIndex();
             updateHeatSink(qr.getHeatSinks(qr.cpuSocket[selCpu]));
         } 
@@ -125,41 +138,41 @@ ArrayList<String> moboCompForms = new ArrayList<>();
 
     public void updateCases(String[] newCases) {
         cases = newCases;
-        caseCombo.setModel(new DefaultComboBoxModel(cases));
+        //caseCombo.setModel(new DefaultComboBoxModel(cases));
     }
 
     public void updateMobos(String[] newMobos) {
         mobos = newMobos;
-        moboCombo.setModel(new DefaultComboBoxModel(mobos));
+        //moboCombo.setModel(new DefaultComboBoxModel(mobos));
     }
 
     public void updateCPUS(String[] newCPUS) {
         cpus = newCPUS;
-        cpuCombo.setModel(new DefaultComboBoxModel(cpus));
+        //cpuCombo.setModel(new DefaultComboBoxModel(cpus));
     }
 
     public void updateGPUS(String[] newGPUS) {
         gpus = newGPUS;
-        gpuCombo.setModel(new DefaultComboBoxModel(gpus));
+        //gpuCombo.setModel(new DefaultComboBoxModel(gpus));
     }
 
     public void updatePSUS(String[] newPSUS) {
         psus = newPSUS;
-        powerCombo.setModel(new DefaultComboBoxModel(psus));
+        //powerCombo.setModel(new DefaultComboBoxModel(psus));
     }
 
     public void updateHardDrive(String[] newHardDrives) {
         hardDrives = newHardDrives;
-        hardCombo.setModel(new DefaultComboBoxModel(hardDrives));
+        //hardCombo.setModel(new DefaultComboBoxModel(hardDrives));
     }
 
     public void updateHeatSink(String[] newHeatSinks) {
         heatSinks = newHeatSinks;
-        heatCombo.setModel(new DefaultComboBoxModel(heatSinks));
+        //heatCombo.setModel(new DefaultComboBoxModel(heatSinks));
     }
 
     public void updateRAM(String[] newRAMS) {
         rams = newRAMS;
-        ramCombo.setModel(new DefaultComboBoxModel(rams));
+        //ramCombo.setModel(new DefaultComboBoxModel(rams));
     }
 }

@@ -47,7 +47,7 @@ ArrayList<String> moboCompForms = new ArrayList<>();
     public Gui(QueryRunner inQr) {
         qr = inQr;
         guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        guiFrame.setTitle("Computer Compatability Database");
+        guiFrame.setTitle("Fantastic Fantasy Premier League App");
         guiFrame.setSize(250, 500);
         guiFrame.setLocationRelativeTo(null);   // centers gui
         guiPanel.setLayout(new BoxLayout(guiPanel, BoxLayout.PAGE_AXIS));

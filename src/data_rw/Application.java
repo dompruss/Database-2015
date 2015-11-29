@@ -9,6 +9,7 @@ package data_rw;
  *
  * @author Nicolas
  */
+
 public class Application {
     public static void main(String[] args) {
         String caseFile = "CASE_Data.txt"; //done

@@ -106,6 +106,7 @@ public class QueryRunner {
             }
 
             String moboQuery = "select * from MOBO_TABLE where " + orString + " limit 35";
+            
             moboCompResultSet = statement.executeQuery(moboQuery);
 
             while (moboCompResultSet.next()) {

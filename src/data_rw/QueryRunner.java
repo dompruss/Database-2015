@@ -25,6 +25,7 @@ public class QueryRunner {
     private ResultSet weekResultSet;
     private ResultSet playerResultSet;
     private ResultSet clubResultSet;
+    private ResultSet gameResultSet;
     
     protected String[] clubs = new String[20];
     protected String[] players = null;
@@ -168,6 +169,26 @@ public class QueryRunner {
             }
         
         return weeks;
+    }
+    
+    public String[] getGames(String week){
+        String[] games = null;
+        String query;
+        try{
+            query = "SELECT Club1 FROM 'Game' WHERE Week = " + week;
+            statement = conn.createStatement();
+            gameResultSet = statement.executeQuery(query);
+            games = new String[10];
+            System.out.println("Goat here");
+            for(int i = 0; i < 10; i++){
+                gameResultSet.next();
+                games[i] = gameResultSet.getString("CLUB1");
+                System.out.println(games[i]);
+            }
+        } catch(SQLException e){
+            Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, e);
+        }
+        return games;
     }
 }
 

@@ -151,7 +151,8 @@ public class Gui implements ActionListener {
         
         }
         if(cb == gameCombo){
-            
+         String stats = qr.getGameStats(weeks[selWeek],games[cb.getSelectedIndex()]);
+         gameInfo.setText(stats);
         }
         
         
@@ -185,5 +186,5 @@ public class Gui implements ActionListener {
         players = newPlayers;
         playerCombo.setModel(new DefaultComboBoxModel(players));
     }
-
+    
 }

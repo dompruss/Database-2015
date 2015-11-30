@@ -23,10 +23,11 @@ public class QueryRunner {
     private Connection conn;
     private Statement statement;
     private ResultSet seasonResultSet;
-    private ResultSet moboCompResultSet;
+    private ResultSet playerResultSet;
     private ResultSet clubResultSet;
     
     protected String[] clubs = new String[20];
+    protected String[] players = null;
    
     public QueryRunner(Connection c) {
         conn = c;
@@ -52,10 +53,71 @@ public class QueryRunner {
         return clubs;
     }
     
-    public String[] getPlayers(){
-        
-        
-        return clubs;
+    public String[] getPlayers(String position, String club){
+        int i =0;
+        String query;
+        if(position.equals("Owner")){
+            try {
+                query = "SELECT FNAME,LNAME FROM `Owner` WHERE CLUB = \""+club+"\"";
+                //System.out.println(query);
+                
+                statement = conn.createStatement();
+                playerResultSet = statement.executeQuery(query);
+                players = new String[1];
+                
+                while(playerResultSet.next()){
+                players[i] = playerResultSet.getString("FNAME") +" "+playerResultSet.getString("LNAME");
+                //System.out.println(players[0]);
+                }
+                
+            } catch (SQLException ex) {
+                Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            
+        }else 
+        if(position.equals("Manager")){
+            try {
+                query = "SELECT FNAME,LNAME FROM `Manager` WHERE CLUB = \""+club+"\"";
+                //System.out.println(query);
+                
+                statement = conn.createStatement();
+                playerResultSet = statement.executeQuery(query);
+                players = new String[1];
+                
+                while(playerResultSet.next()){
+                players[i] = playerResultSet.getString("FNAME") +" "+playerResultSet.getString("LNAME");
+                //System.out.println(players[0]);
+                }
+                
+            } catch (SQLException ex) {
+                Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }else
+        {
+            try {
+                query = "SELECT FNAME,LNAME FROM `Player` WHERE CLUB = \""+club+"\" AND POSITION = \""+ position +"\"";
+                //System.out.println(query);
+                
+                statement = conn.createStatement();
+                playerResultSet = statement.executeQuery(query);
+                players = new String[20];
+                
+                while(playerResultSet.next()){
+                players[i] = playerResultSet.getString("FNAME") +" "+playerResultSet.getString("LNAME");
+                //System.out.println(players[0]);
+                i++;
+                }
+                String temp[] = new String[players.length];
+                for(int j =0; j<players.length;j++){
+                    temp[j] = players[j];
+                }
+                players = temp;
+            } catch (SQLException ex) {
+                Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+         
+        return players;
     }
 }
 

@@ -107,11 +107,7 @@ public class QueryRunner {
                 //System.out.println(players[0]);
                 i++;
                 }
-                String temp[] = new String[players.length];
-                for(int j =0; j<players.length;j++){
-                    temp[j] = players[j];
-                }
-                players = temp;
+                
             } catch (SQLException ex) {
                 Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
             }

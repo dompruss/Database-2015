@@ -121,15 +121,36 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         } 
         
         if (cb == clubCombo) {
+            int selClub = cb.getSelectedIndex();
+            
             } 
         
         if (cb == playerCombo) {
-            int selCpu =  cb.getSelectedIndex();
-            } 
+            int selPlayer =  cb.getSelectedIndex();
+            }
+        
+        if (cb == seasonCombo){
+            
+        }
+        if(cb == weekCombo){
+        
+        }
+        if(cb == gameCombo){
+            
+        }
+        
+        
+        
     }
 
     public void updatePositions(String[] newPositions) {
         positions = newPositions;
+        positionCombo.setModel(new DefaultComboBoxModel(positions));
         }
+    
+    public void updateClubs(String[] newClubs){
+        clubs = newClubs;
+        clubCombo.setModel(new DefaultComboBoxModel(clubs));
+    }
 
 }

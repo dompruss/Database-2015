@@ -107,6 +107,11 @@ public class QueryRunner {
                 //System.out.println(players[0]);
                 i++;
                 }
+                String temp[] = new String[i];
+                for(int j = 0; j<i;j++){
+                    temp[j] = players[j];
+                }
+                players = temp;
                 
             } catch (SQLException ex) {
                 Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
@@ -115,6 +120,28 @@ public class QueryRunner {
          
         return players;
     }
+    
+    public String getStats(String name){
+        String query;
+        String split[] = name.split(" ");
+        String result = null;
+        try {
+                query = "SELECT Goals,Assists,Fouls FROM `Player` WHERE FName = \""+split[0]+"\" AND LNAME = \""+split[1]+"\"";
+           
+                statement = conn.createStatement();
+                playerResultSet = statement.executeQuery(query);
+                
+                while(playerResultSet.next()){
+                    result = " Goals: "+playerResultSet.getString("GOALS")+"\nASSISTS: "+playerResultSet.getString("ASSISTS")+"\n FOULS: "+playerResultSet.getString("FOULS");
+                 }
+                
+            } catch (SQLException ex) {
+                Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        System.out.println(result);
+        return result;
+    }
+    
 }
 
 

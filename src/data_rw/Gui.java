@@ -121,15 +121,24 @@ public class Gui implements ActionListener {
            if (selClub != -1){
             updatePlayers(qr.getPlayers(positions[selPosition], clubs[selClub]));   
            }
+           playerInfo.setText("");
         } 
         
         if (cb == clubCombo) {
             selClub = cb.getSelectedIndex();
+            if(selPosition != -1){
             updatePlayers(qr.getPlayers(positions[selPosition], clubs[selClub]));
             } 
+            playerInfo.setText("");
+        }
         
         if (cb == playerCombo) {
             int selPlayer =  cb.getSelectedIndex();
+            
+            if(players[selPlayer] != null){
+            String stats = qr.getStats(players[selPlayer]);    
+            playerInfo.setText(stats);
+            }
             }
         
         if (cb == seasonCombo){

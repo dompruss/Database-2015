@@ -22,7 +22,7 @@ public class QueryRunner {
 
     private Connection conn;
     private Statement statement;
-    private ResultSet seasonResultSet;
+    private ResultSet weekResultSet;
     private ResultSet playerResultSet;
     private ResultSet clubResultSet;
     
@@ -142,6 +142,33 @@ public class QueryRunner {
         return result;
     }
     
+    public String[] getWeeks(){
+        String weeks[] = null;
+        int i =0;
+        String query;
+        
+            try {
+                query = "SELECT DISTINCT WEEK FROM `Game` WHERE Season = \"2015\"";
+                statement = conn.createStatement();
+                weekResultSet = statement.executeQuery(query);
+                weeks = new String[20];
+                
+                while(weekResultSet.next()){
+                weeks[i] = weekResultSet.getString("WEEK");
+                i++;
+                }
+                String temp[] = new String[i];
+                for(int j = 0; j<i;j++){
+                    temp[j] = weeks[j];
+                }
+                weeks = temp;
+                
+            } catch (SQLException ex) {
+                Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        
+        return weeks;
+    }
 }
 
 

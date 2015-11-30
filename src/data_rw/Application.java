@@ -24,8 +24,9 @@ public class Application {
         positions[3] = "Forward";
         positions[4] = "Owner";
         positions[5] = "Manager";
-        System.out.println("Goat here");
+   //     System.out.println("Goat here");
         gui.updatePositions(positions);
         gui.updateClubs(qr.getClubs());
+        gui.updateSeason();
         }
 }

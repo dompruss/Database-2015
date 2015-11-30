@@ -21,6 +21,8 @@ public class Gui implements ActionListener {
     final JPanel playerPanel = new JPanel();
     int selClub = -1;
     int selPosition = -1;
+    int selWeek;
+
     ArrayList<String> moboCompForms = new ArrayList<>();
     String[] positions = new String[35];     
     String[] clubs = new String[35];      
@@ -142,9 +144,10 @@ public class Gui implements ActionListener {
             }
         
         if (cb == seasonCombo){
-            
+            updateWeeks(qr.getWeeks());
         }
         if(cb == weekCombo){
+        selWeek = cb.getSelectedIndex();
         
         }
         if(cb == gameCombo){
@@ -153,6 +156,18 @@ public class Gui implements ActionListener {
         
         
         
+        
+    }
+    
+    public void updateSeason(){
+        String season[] = new String[1];
+        season[0] = "2015";
+        seasonCombo.setModel(new DefaultComboBoxModel(season));
+    }
+    
+    public void updateWeeks(String[] newWeeks){
+        weeks = newWeeks;
+        weekCombo.setModel(new DefaultComboBoxModel(weeks));
         
     }
 

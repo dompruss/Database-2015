@@ -138,7 +138,7 @@ public class QueryRunner {
             } catch (SQLException ex) {
                 Logger.getLogger(QueryRunner.class.getName()).log(Level.SEVERE, null, ex);
             }
-        System.out.println(result);
+        //System.out.println(result);
         return result;
     }
     

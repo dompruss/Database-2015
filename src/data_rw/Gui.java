@@ -19,8 +19,9 @@ public class Gui implements ActionListener {
 
     final JPanel gamePanel = new JPanel();   // Panel for holding our Combo Boxes 
     final JPanel playerPanel = new JPanel();
-    
-ArrayList<String> moboCompForms = new ArrayList<>();
+    int selClub = -1;
+    int selPosition = -1;
+    ArrayList<String> moboCompForms = new ArrayList<>();
     String[] positions = new String[35];     
     String[] clubs = new String[35];      
     String[] players = new String[35];    
@@ -116,20 +117,49 @@ ArrayList<String> moboCompForms = new ArrayList<>();
     public void actionPerformed(ActionEvent e) {
         JComboBox cb = (JComboBox) e.getSource();
         if (cb == positionCombo) {
-            int selCase =  cb.getSelectedIndex();
-           
+            selPosition =  cb.getSelectedIndex();
+           if (selClub != -1){
+            updatePlayers(qr.getPlayers(positions[selPosition], clubs[selClub]));   
+           }
         } 
         
         if (cb == clubCombo) {
+            selClub = cb.getSelectedIndex();
+            updatePlayers(qr.getPlayers(positions[selPosition], clubs[selClub]));
             } 
         
         if (cb == playerCombo) {
-            int selCpu =  cb.getSelectedIndex();
-            } 
+            int selPlayer =  cb.getSelectedIndex();
+            }
+        
+        if (cb == seasonCombo){
+            
+        }
+        if(cb == weekCombo){
+        
+        }
+        if(cb == gameCombo){
+            
+        }
+        
+        
+        
+        
     }
 
     public void updatePositions(String[] newPositions) {
         positions = newPositions;
+        positionCombo.setModel(new DefaultComboBoxModel(positions));
         }
+    
+    public void updateClubs(String[] newClubs){
+        clubs = newClubs;
+        clubCombo.setModel(new DefaultComboBoxModel(clubs));
+    }
+    
+    public void updatePlayers(String[] newPlayers){
+        players = newPlayers;
+        playerCombo.setModel(new DefaultComboBoxModel(players));
+    }
 
 }

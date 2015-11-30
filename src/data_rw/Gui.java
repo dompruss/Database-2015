@@ -8,11 +8,13 @@ import java.awt.event.MouseListener;
 import java.util.ArrayList;
 import javax.swing.*;
 import java.awt.GridLayout;
+import java.awt.Color;
+import javax.swing.border.LineBorder;
 
 public class Gui implements ActionListener {
 
     JFrame guiFrame = new JFrame(); // Frame for holding our JPanes
-    GridLayout layout = new GridLayout(2, 1);
+    GridLayout layout = new GridLayout(1, 2);
     
 
     final JPanel gamePanel = new JPanel();   // Panel for holding our Combo Boxes 
@@ -34,6 +36,9 @@ ArrayList<String> moboCompForms = new ArrayList<>();
     JLabel seasonLabel = new JLabel("Season:");
     JLabel weekLabel = new JLabel("Week:");
     JLabel gameLabel = new JLabel("Game:");
+    
+    JTextArea playerInfo;
+    JTextArea gameInfo;
 
     JComboBox positionCombo;
     JComboBox clubCombo;
@@ -49,9 +54,10 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         qr = inQr;
         guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         guiFrame.setTitle("Fantastic Fantasy Premier League App");
-        guiFrame.setSize(500, 500);
+        guiFrame.setSize(500, 250);
         guiFrame.setLocationRelativeTo(null);   // centers gui
-
+        gamePanel.setLayout(new BoxLayout(gamePanel, BoxLayout.PAGE_AXIS));
+        playerPanel.setLayout(new BoxLayout(playerPanel, BoxLayout.PAGE_AXIS));
         initializeComboBoxes();
         initializeJPane();
     }
@@ -79,84 +85,79 @@ ArrayList<String> moboCompForms = new ArrayList<>();
 
         playerPanel.add(playerLabel);
         playerPanel.add(playerCombo);
+        
+        playerInfo = new JTextArea(5,15);
+        playerPanel.add(playerInfo);
 
         gamePanel.add(seasonLabel);
         gamePanel.add(seasonCombo);
 
-        gamePanel.add(seasonLabel);
-        gamePanel.add(seasonCombo);
+        gamePanel.add(weekLabel);
+        gamePanel.add(weekCombo);
         
         gamePanel.add(gameLabel);
         gamePanel.add(gameCombo);
 
+        gameInfo = new JTextArea(5,15);
+        gamePanel.add(gameInfo);
+        
         gamePanel.setVisible(true);
         playerPanel.setVisible(true);
         guiFrame.setLayout(layout);
         guiFrame.add(gamePanel);
         guiFrame.add(playerPanel);
         guiFrame.setVisible(true);
+        gamePanel.setBackground(Color.decode("#007fff"));   
+        playerPanel.setBackground(Color.decode("#007fff"));
+        playerPanel.setBorder(new LineBorder(Color.black, 5));
+        gamePanel.setBorder(new LineBorder(Color.black, 5));
+        
     }
-
     @Override
     public void actionPerformed(ActionEvent e) {
         JComboBox cb = (JComboBox) e.getSource();
         if (cb == positionCombo) {
             int selCase =  cb.getSelectedIndex();
-            updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
+           
         } 
         
         if (cb == clubCombo) {
-            int selMobo =  cb.getSelectedIndex();
-            updateCPUS(qr.getCpus(qr.moboSocket[selMobo])); 
-            updateGPUS(qr.getGpus(qr.caseVidLen[selMobo]));
-            updateRAM(qr.getRam(qr.moboManu[selMobo], qr.moboPart[selMobo], qr.moboMemType[selMobo], qr.moboMemSlot[selMobo]));
-            updatePSUS(qr.getPsus(qr.moboForm[selMobo]));
-            updateHardDrive(qr.getHardDrives());
-        } 
+            } 
         
         if (cb == playerCombo) {
             int selCpu =  cb.getSelectedIndex();
-            updateHeatSink(qr.getHeatSinks(qr.cpuSocket[selCpu]));
-        } 
+            } 
     }
 
     public void updateCases(String[] newCases) {
         cases = newCases;
-        //caseCombo.setModel(new DefaultComboBoxModel(cases));
-    }
+        }
 
     public void updateMobos(String[] newMobos) {
         mobos = newMobos;
-        //moboCombo.setModel(new DefaultComboBoxModel(mobos));
     }
 
     public void updateCPUS(String[] newCPUS) {
         cpus = newCPUS;
-        //cpuCombo.setModel(new DefaultComboBoxModel(cpus));
     }
 
     public void updateGPUS(String[] newGPUS) {
         gpus = newGPUS;
-        //gpuCombo.setModel(new DefaultComboBoxModel(gpus));
     }
 
     public void updatePSUS(String[] newPSUS) {
         psus = newPSUS;
-        //powerCombo.setModel(new DefaultComboBoxModel(psus));
     }
 
     public void updateHardDrive(String[] newHardDrives) {
         hardDrives = newHardDrives;
-        //hardCombo.setModel(new DefaultComboBoxModel(hardDrives));
     }
 
     public void updateHeatSink(String[] newHeatSinks) {
         heatSinks = newHeatSinks;
-        //heatCombo.setModel(new DefaultComboBoxModel(heatSinks));
     }
 
     public void updateRAM(String[] newRAMS) {
         rams = newRAMS;
-        //ramCombo.setModel(new DefaultComboBoxModel(rams));
     }
 }

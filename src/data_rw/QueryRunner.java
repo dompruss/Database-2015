@@ -20,11 +20,11 @@ public class QueryRunner {
 
     private Connection conn;
     private Statement statement;
-    private ResultSet caseResultSet;
+    private ResultSet seasonResultSet;
     private ResultSet moboCompResultSet;
     private ResultSet moboSpeedResultSet;
 
-    protected String[] caseManu = new String[35];
+    protected String[] seasonManu = new String[35];
     protected String[] caseMod = new String[35];
     protected String[] moboManu = new String[35];
     protected String[] moboPart = new String[35];
@@ -39,27 +39,6 @@ public class QueryRunner {
         conn = c;
     }
 
-    public String[] getCases() {
-        String[] cases = new String[35];
-        try {
-            int i = 0;
-            statement = conn.createStatement();
-            caseResultSet = statement
-                    .executeQuery("select * from CASE_TABLE limit 35");
-
-            while (caseResultSet.next()) {
-                caseManu[i] = caseResultSet.getString("Manufacturer");
-                caseMod[i] = caseResultSet.getString("Model");
-                caseVidLen[i] = caseResultSet.getDouble("MaximumVideoCardLength");
-                cases[i] = caseResultSet.getNString(1) + " " + caseResultSet.getNString(2);
-                i++;
-            }
-
-        } catch (SQLException ex) {
-            System.out.println("Can't run query");
-        }
-        return cases;
-    }
 
     public String[] getMobos(String caseManu, String caseMod) {
         ArrayList<String> moboCompForms = new ArrayList<>();

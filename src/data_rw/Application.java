@@ -17,7 +17,7 @@ public class Application {
         Connect con = new Connect();
         QueryRunner qr = new QueryRunner(con.getConn());
         Gui gui = new Gui(qr);
-        gui.updateCases(qr.getCases());
+        //gui.updateCases(qr.getCases());
         
         }
 }

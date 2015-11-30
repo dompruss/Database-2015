@@ -118,7 +118,7 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         JComboBox cb = (JComboBox) e.getSource();
         if (cb == positionCombo) {
             int selCase =  cb.getSelectedIndex();
-            updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
+           // updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
         } 
         
         if (cb == clubCombo) {

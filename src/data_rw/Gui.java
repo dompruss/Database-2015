@@ -21,15 +21,13 @@ public class Gui implements ActionListener {
     final JPanel playerPanel = new JPanel();
     
 ArrayList<String> moboCompForms = new ArrayList<>();
-    String[] cases = new String[35];      // current compatible Cases
-    String[] mobos = new String[35];      // current compatible Mother Boards
-    String[] cpus = new String[35];       // current compatible Central Processing Units
-    String[] gpus = new String[35];       // current compatible Graphics Processing Units
-    String[] psus = new String[35];       // current compatible Power Supplies
-    String[] hardDrives = new String[35]; // current compatible Hard Drives
-    String[] heatSinks = new String[35];  // current compatible Heat Sinks
-    String[] rams = new String[35];       // current compatible Random Access Memory
-
+    String[] positions = new String[35];     
+    String[] clubs = new String[35];      
+    String[] players = new String[35];    
+    String[] seasons = new String[35];    
+    String[] weeks = new String[35];       
+    String[] games = new String[35];
+    
     JLabel positionLabel = new JLabel("Position:");
     JLabel clubLabel = new JLabel("Club:");
     JLabel playerLabel = new JLabel("Player:");
@@ -63,17 +61,18 @@ ArrayList<String> moboCompForms = new ArrayList<>();
     }
 
     private void initializeComboBoxes() {
-        positionCombo = new JComboBox(cases);
+        positionCombo = new JComboBox(positions);
         positionCombo.addActionListener(this);
-        clubCombo = new JComboBox(mobos);
+        clubCombo = new JComboBox(clubs);
         clubCombo.addActionListener(this);
-        playerCombo = new JComboBox(cpus);
+        playerCombo = new JComboBox(players);
         playerCombo.addActionListener(this);
-        seasonCombo = new JComboBox(gpus);
-        seasonCombo = new JComboBox(psus);
-        weekCombo = new JComboBox(hardDrives);
-        weekCombo = new JComboBox(heatSinks);
-        gameCombo = new JComboBox(rams);
+        seasonCombo = new JComboBox(seasons);
+        seasonCombo.addActionListener(this);
+        weekCombo = new JComboBox(weeks);
+        weekCombo.addActionListener(this);
+        gameCombo = new JComboBox(games);
+        gameCombo.addActionListener(this);
     }
 
     private void initializeJPane() {
@@ -129,35 +128,8 @@ ArrayList<String> moboCompForms = new ArrayList<>();
             } 
     }
 
-    public void updateCases(String[] newCases) {
-        cases = newCases;
+    public void updatePositions(String[] newPositions) {
+        positions = newPositions;
         }
 
-    public void updateMobos(String[] newMobos) {
-        mobos = newMobos;
-    }
-
-    public void updateCPUS(String[] newCPUS) {
-        cpus = newCPUS;
-    }
-
-    public void updateGPUS(String[] newGPUS) {
-        gpus = newGPUS;
-    }
-
-    public void updatePSUS(String[] newPSUS) {
-        psus = newPSUS;
-    }
-
-    public void updateHardDrive(String[] newHardDrives) {
-        hardDrives = newHardDrives;
-    }
-
-    public void updateHeatSink(String[] newHeatSinks) {
-        heatSinks = newHeatSinks;
-    }
-
-    public void updateRAM(String[] newRAMS) {
-        rams = newRAMS;
-    }
 }

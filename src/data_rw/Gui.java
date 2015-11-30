@@ -118,61 +118,46 @@ ArrayList<String> moboCompForms = new ArrayList<>();
         JComboBox cb = (JComboBox) e.getSource();
         if (cb == positionCombo) {
             int selCase =  cb.getSelectedIndex();
-           // updateMobos(qr.getMobos(qr.caseManu[selCase], qr.caseMod[selCase])); 
+           
         } 
         
         if (cb == clubCombo) {
-            int selMobo =  cb.getSelectedIndex();
-            updateCPUS(qr.getCpus(qr.moboSocket[selMobo])); 
-            updateGPUS(qr.getGpus(qr.caseVidLen[selMobo]));
-            updateRAM(qr.getRam(qr.moboManu[selMobo], qr.moboPart[selMobo], qr.moboMemType[selMobo], qr.moboMemSlot[selMobo]));
-            updatePSUS(qr.getPsus(qr.moboForm[selMobo]));
-            updateHardDrive(qr.getHardDrives());
-        } 
+            } 
         
         if (cb == playerCombo) {
             int selCpu =  cb.getSelectedIndex();
-            updateHeatSink(qr.getHeatSinks(qr.cpuSocket[selCpu]));
-        } 
+            } 
     }
 
     public void updateCases(String[] newCases) {
         cases = newCases;
-        //caseCombo.setModel(new DefaultComboBoxModel(cases));
-    }
+        }
 
     public void updateMobos(String[] newMobos) {
         mobos = newMobos;
-        //moboCombo.setModel(new DefaultComboBoxModel(mobos));
     }
 
     public void updateCPUS(String[] newCPUS) {
         cpus = newCPUS;
-        //cpuCombo.setModel(new DefaultComboBoxModel(cpus));
     }
 
     public void updateGPUS(String[] newGPUS) {
         gpus = newGPUS;
-        //gpuCombo.setModel(new DefaultComboBoxModel(gpus));
     }
 
     public void updatePSUS(String[] newPSUS) {
         psus = newPSUS;
-        //powerCombo.setModel(new DefaultComboBoxModel(psus));
     }
 
     public void updateHardDrive(String[] newHardDrives) {
         hardDrives = newHardDrives;
-        //hardCombo.setModel(new DefaultComboBoxModel(hardDrives));
     }
 
     public void updateHeatSink(String[] newHeatSinks) {
         heatSinks = newHeatSinks;
-        //heatCombo.setModel(new DefaultComboBoxModel(heatSinks));
     }
 
     public void updateRAM(String[] newRAMS) {
         rams = newRAMS;
-        //ramCombo.setModel(new DefaultComboBoxModel(rams));
     }
 }

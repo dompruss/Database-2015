@@ -22,9 +22,9 @@ public class Connect {
         
 
         try {
-            String url = "jdbc:mysql://csci440.cs.montana.edu:3306/pruss";
+            String url = "jdbc:mysql://csci440.cs.montana.edu:3306/mooren";
             Class.forName("com.mysql.jdbc.Driver");
-            conn = DriverManager.getConnection(url, "pruss", "t3gpfbwv9a");
+            conn = DriverManager.getConnection(url, "mooren", "t3gjws7quz");
             System.out.println("Database connection established");
         } catch (Exception e) {
             e.printStackTrace();
